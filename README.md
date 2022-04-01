@@ -1,6 +1,6 @@
 # 📖 Deep Face Generation and Control: A Survey
 
-📄 Gan prior embedded network for blind face restoration in the wild
+📄 GAN Prior Embedded Network for Blind Face Restoration in the Wild
 https://arxiv.org/abs/2105.06070
 https://github.com/yangxy/GPEN
 
