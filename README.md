@@ -1,4 +1,8 @@
-# 📖 Deep Face Generation and Control: A Survey
+# 📖 Deep Face Generation and Editing: A Survey
+
+[//]: # (Deep Face Generation and Control: A Survey)
+[//]: # (Deep Face Generation and Editing: A Survey)
+[//]: # (Deep Face Synthesis and Editing: A Survey)
 
 📄 GAN Prior Embedded Network for Blind Face Restoration in the Wild
 https://arxiv.org/abs/2105.06070
