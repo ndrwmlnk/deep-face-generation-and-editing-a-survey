@@ -6,7 +6,7 @@
 
 ### 1. 📄 Introduction <br />
 
--   [2. Introduction](#2-intro)
+-   [1. Introduction](#2-intro)
 -   [2. Applications](#2-apps)
 -   [3. Neural Network Architectures for Generation of Faces](#3-nn-artch)
 -   [4. Similarity of Faces and Loses For Training](#4-sim-and-loss)
@@ -15,7 +15,7 @@
 -   [7. Editing of Generated Images ](#7-editing)
 -   [8. Finding control parameters in the latent space - Editing approaches](#8-finding-control-parameters)
 -   [9. Deep Fake](#9-deep-fake)
--   [10.Deblurring](#10-deblurring)
+-   [10. Deblurring](#10-deblurring)
 
 ### 2. 📄 Applications <br/>
 
