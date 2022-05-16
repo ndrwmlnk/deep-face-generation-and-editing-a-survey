@@ -62,26 +62,6 @@ https://arxiv.org/abs/2203.17272 <br/>
 https://arxiv.org/abs/2201.13433
 https://github.com/yuval-alaluf/stylegan3-editing <br/>
 
-### 4. 📄 Similarity of Faces and Loses For Training <br/>
-
-**ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
-
-https://arxiv.org/abs/1801.07698 <br />
-
-**The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**
-
-https://arxiv.org/abs/1801.03924 <br />
-
-**GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**
-
-https://arxiv.org/abs/1706.08500
-https://github.com/NVlabs/stylegan3 <br />
-
-**Third Time’s the Charm? Image and Video Editing with StyleGAN3**
-
-https://arxiv.org/abs/2201.13433
-https://github.com/yuval-alaluf/stylegan3-editing <br/>
-
 **Towards real-world blind face restoration with generative facial prior**
 
 https://arxiv.org/abs/2101.04061
@@ -189,6 +169,21 @@ https://toonify.photos/ <br/>
 **Huggingface Official Website**
 
 https://huggingface.co/ <br/>
+
+### 4. 📄 Similarity of Faces and Loses For Training <br/>
+
+**ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
+
+https://arxiv.org/abs/1801.07698 <br />
+
+**The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**
+
+https://arxiv.org/abs/1801.03924 <br />
+
+**GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**
+
+https://arxiv.org/abs/1706.08500
+https://github.com/NVlabs/stylegan3 <br />
 
 ### 5. 📄 The Latent Space <br/>
 
