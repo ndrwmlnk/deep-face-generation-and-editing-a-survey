@@ -24,6 +24,23 @@
 
 https://towardsdatascience.com/ganfolk-using-ai-to-create-portraits-of-fictional-people-to-sell-as-nfts-6e24f5214ed1 <br/>
 
+**Dlib-ml: A Machine Learning Toolkit**
+
+https://www.jmlr.org/papers/volume10/king09a/king09a.pdf <br/>
+
+**A Style-Based Generator Architecture for Generative Adversarial Networks**
+
+https://arxiv.org/abs/1812.04948
+https://github.com/NVlabs/ffhq-dataset <br/>
+
+**Ca-gan: Weakly supervised color aware gan for controllable makeup transfer**
+
+https://arxiv.org/abs/2008.10298 <br/>
+
+**Alias-Free Generative Adversarial Networks**
+
+https://arxiv.org/abs/2106.12423
+
 ### 3. 📄 Neural Network Architectures for Generation of Faces <br/>
 
 **Analyzing and Improving the Image Quality of StyleGAN**
@@ -57,7 +74,121 @@ https://arxiv.org/abs/1801.03924 <br />
 
 **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**
 
-https://arxiv.org/abs/1706.08500 <br />
+https://arxiv.org/abs/1706.08500
+https://github.com/NVlabs/stylegan3 <br />
+
+**Third Time’s the Charm? Image and Video Editing with StyleGAN3**
+
+https://arxiv.org/abs/2201.13433
+https://github.com/yuval-alaluf/stylegan3-editing <br/>
+
+**Towards real-world blind face restoration with generative facial prior**
+
+https://arxiv.org/abs/2101.04061
+https://github.com/TencentARC/GFPGAN <br/>
+
+**Analyzing and Improving the Image Quality of StyleGAN**
+
+https://arxiv.org/abs/1912.04958
+https://github.com/NVlabs/stylegan2
+
+**MyStyle: A Personalized Generative Prior**
+
+https://arxiv.org/abs/2203.17272
+
+**Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement**
+
+https://arxiv.org/abs/2106.11423
+
+**Gan Folks #1**
+
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/95949048702184002022994543019454797960309252011183799747181743845102298595329 <br/>
+
+**DeepFaceLab: Integrated, flexible and extensible faceswapping framework**
+
+**Loreal Virtual Makeup Try-on**
+
+https://www.lorealparisusa.com/virtual-try-on-makeup <br/>
+
+**Maybelline Virtual Makeup Try-on**
+
+https://www.maybelline.com/virtual-try-on-makeup-tools <br/>
+
+**NyxCosmetics Virtual Makeup Try-on**
+
+https://www.nyxcosmetics.com/try-it-on.html <br/>
+
+**EyebuyDirect Virtual Glasses Try-on**
+
+https://www.eyebuydirect.com/virtual-try-on <br/>
+
+**Misterspex Virtual Glasses Try-on**
+
+https://www.misterspex.co.uk/l/pg/100508 <br/>
+
+**ZenniOptical Virtual Glasses Try-on**
+
+https://www.zennioptical.com/tryon <br/>
+
+**GPEN Face Restoration**
+
+https://replicate.com/yangxy/gpen <br/>
+
+**RealESRGAN Application**
+
+https://huggingface.co/spaces/akhaliq/Real-ESRGAN <br/>
+
+**My Heritage Deep Nostalgia**
+
+https://www.myheritage.com/deep-nostalgia <br/>
+
+**PhotoMyne Image Restoration**
+
+https://photomyne.com/ <br/>
+
+**ImageColorizer Image Colorizer**
+
+https://imagecolorizer.com/ <br/>
+
+**VanceAI Image Restoration**
+
+https://vanceai.com/old-photo-restoration/ <br/>
+
+**Nvidia Image Restoration**
+
+https://www.nvidia.com/research/inpainting/index.html <br/>
+
+**ReminiAI Image Restoration**
+
+https://remini.ai/ <br/>
+
+**Befunky Cartoonize Photos**
+
+https://www.befunky.com/features/photo-to-cartoon/ <br/>
+
+**BoredApp Generation**
+
+https://huggingface.co/huggingnft/boredapeyachtclub <br/>
+
+**Cartoonify Photos**
+
+https://www.kapwing.com/cartoonify <br/>
+
+**Cartoonize Photos**
+
+https://www.cartoonize.net/ <br/>
+
+**CyrptoPunks Generation**
+
+https://huggingface.co/huggingnft/cryptopunks <br/>
+
+**Toonify.photos**
+
+https://toonify.photos/ <br/>
+
+**Huggingface Official Website**
+
+https://huggingface.co/ <br/>
 
 ### 5. 📄 The Latent Space <br/>
 
