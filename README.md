@@ -41,23 +41,7 @@ https://arxiv.org/abs/2008.10298 <br/>
 
 https://arxiv.org/abs/2106.12423
 
-### 3. 📄 Neural Network Architectures for Generation of Faces <br/>
-
-**Analyzing and Improving the Image Quality of StyleGAN**
-
-https://github.com/NVlabs/stylegan2
-https://arxiv.org/abs/1912.04958 <br />
-
-**DeepFaceLab: Integrated, flexible and extensible face-swapping framework**
-
-https://arxiv.org/abs/2005.05535
-https://github.com/iperov/DeepFaceLab <br/>
-
-**MyStyle: A Personalized Generative Prior**
-
-https://arxiv.org/abs/2203.17272 <br/>
-
-**Third Time's the Charm? Image and Video Editing with StyleGAN3**
+**Third Time’s the Charm? Image and Video Editing with StyleGAN3**
 
 https://arxiv.org/abs/2201.13433
 https://github.com/yuval-alaluf/stylegan3-editing <br/>
@@ -169,6 +153,27 @@ https://toonify.photos/ <br/>
 **Huggingface Official Website**
 
 https://huggingface.co/ <br/>
+
+### 3. 📄 Neural Network Architectures for Generation of Faces <br/>
+
+**Analyzing and Improving the Image Quality of StyleGAN**
+
+https://github.com/NVlabs/stylegan2
+https://arxiv.org/abs/1912.04958 <br />
+
+**DeepFaceLab: Integrated, flexible and extensible face-swapping framework**
+
+https://arxiv.org/abs/2005.05535
+https://github.com/iperov/DeepFaceLab <br/>
+
+**MyStyle: A Personalized Generative Prior**
+
+https://arxiv.org/abs/2203.17272 <br/>
+
+**Third Time's the Charm? Image and Video Editing with StyleGAN3**
+
+https://arxiv.org/abs/2201.13433
+https://github.com/yuval-alaluf/stylegan3-editing <br/>
 
 ### 4. 📄 Similarity of Faces and Loses For Training <br/>
 
