@@ -4,20 +4,24 @@
 [//]: # "Deep Face Generation and Editing: A Survey"
 [//]: # "Deep Face Synthesis and Editing: A Survey"
 
-### 1. 📄 Introduction <br />
+### Introduction
 
--   [1. Introduction](#2-intro)
--   [2. Applications](#2-apps)
--   [3. Neural Network Architectures for Generation of Faces](#3-nn-artch)
--   [4. Similarity of Faces and Loses For Training](#4-sim-and-loss)
--   [5. The Latent Space](#5-the-latent-space)
--   [6. GAN Inversion (to the Latent Space)](#6-gan-inversion)
--   [7. Editing of Generated Images ](#7-editing)
--   [8. Finding control parameters in the latent space - Editing approaches](#8-finding-control-parameters)
--   [9. Deep Fake](#9-deep-fake)
--   [10. Deblurring](#10-deblurring)
+<br />
 
-### 2. 📄 Applications <br/>
+-   [1. Introduction](#introduction)
+-   [2. Applications](#applications)
+-   [3. Neural Network Architectures for Generation of Faces](#neural-network-architectures-for-generation-of-faces)
+-   [4. Similarity of Faces and Loses For Training](#similarity-of-faces-and-loses-for-training)
+-   [5. The Latent Space](#the-latent-space)
+-   [6. GAN Inversion to the Latent Space](#gan-inversion-to-the-latent-space)
+-   [7. Editing of Generated Images ](#editing-of-generated-images)
+-   [8. Finding control parameters in the latent space - Editing approaches](#finding-control-parameters-in-the-latent-space)
+-   [9. Deep Fake](#deep-fake)
+-   [10. Deblurring](#deblurring)
+
+### Applications
+
+<br/>
 
 **GANfolk: Using AI to Create Portraits of Fictional People to Sell as NFTs**
 (Blog post consists of many papers)
@@ -154,7 +158,9 @@ https://toonify.photos/ <br/>
 
 https://huggingface.co/ <br/>
 
-### 3. 📄 Neural Network Architectures for Generation of Faces <br/>
+### Neural Network Architectures for Generation of Faces
+
+<br/>
 
 **Analyzing and Improving the Image Quality of StyleGAN**
 
@@ -175,7 +181,9 @@ https://arxiv.org/abs/2203.17272 <br/>
 https://arxiv.org/abs/2201.13433
 https://github.com/yuval-alaluf/stylegan3-editing <br/>
 
-### 4. 📄 Similarity of Faces and Loses For Training <br/>
+### Similarity of Faces and Loses For Training
+
+<br/>
 
 **ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
 
@@ -190,7 +198,9 @@ https://arxiv.org/abs/1801.03924 <br />
 https://arxiv.org/abs/1706.08500
 https://github.com/NVlabs/stylegan3 <br />
 
-### 5. 📄 The Latent Space <br/>
+### The Latent Space
+
+<br/>
 
 **StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation**
 
@@ -200,7 +210,9 @@ https://arxiv.org/abs/2011.12799 <br />
 
 https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Abdal_Image2StyleGAN_How_to_ICCV_2019_supplemental.pdf <br />
 
-### 6. 📄 GAN Inversion (to the Latent Space) <br/>
+### GAN Inversion (to the Latent Space)
+
+<br/>
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**
 
@@ -210,7 +222,9 @@ https://arxiv.org/abs/2008.00951 <br />
 
 https://arxiv.org/abs/1912.04958 <br />
 
-### 7. 📄 Editing of Generated Images <br/>
+### Editing of Generated Images
+
+<br/>
 
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**
 
@@ -224,7 +238,9 @@ https://arxiv.org/abs/2102.02766 <br />
 
 https://arxiv.org/abs/2103.00020 <br />
 
-### 8. 📄 Finding control parameters in the latent space - Editing approaches <br/>
+### Finding control parameters in the latent space
+
+<br/>
 
 **Pivotal Tuning for Latent-based Editing of Real Images**
 
@@ -235,14 +251,18 @@ https://arxiv.org/abs/2106.05744 <br />
 https://github.com/NVlabs/stylegan2
 https://arxiv.org/abs/1912.04958 <br />
 
-### 9. 📄 Deep Fake <br />
+### Deep Fake
+
+<br />
 
 **DeepFaceLab: Integrated, flexible and extensible face-swapping framework**
 
 https://arxiv.org/abs/2005.05535
 https://github.com/iperov/DeepFaceLab <br/>
 
-### 10. 📄 Deblurring <br />
+### Deblurring
+
+<br />
 
 **GAN Prior Embedded Network for Blind Face Restoration in the Wild**
 https://arxiv.org/abs/2105.06070
