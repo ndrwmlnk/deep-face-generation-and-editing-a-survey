@@ -10,6 +10,7 @@
 
 -   [1. Introduction](#introduction)
 -   [2. Applications](#applications)
+-   [2b. Databases](#databases)
 -   [3. Neural Network Architectures for Generation of Faces](#neural-network-architectures-for-generation-of-faces)
 -   [4. Similarity of Faces and Loses For Training](#similarity-of-faces-and-loses-for-training)
 -   [5. The Latent Space](#the-latent-space)
@@ -34,7 +35,7 @@ https://www.jmlr.org/papers/volume10/king09a/king09a.pdf <br/>
 
 **A Style-Based Generator Architecture for Generative Adversarial Networks**
 
-https://arxiv.org/abs/1812.04948
+https://arxiv.org/abs/1812.04948 <br/>
 https://github.com/NVlabs/ffhq-dataset <br/>
 
 **Ca-gan: Weakly supervised color aware gan for controllable makeup transfer**
