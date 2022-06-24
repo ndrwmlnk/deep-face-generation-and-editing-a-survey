@@ -20,6 +20,8 @@
 -   [9. Deep Fake](#deep-fake)
 -   [10. Deblurring](#deblurring)
 
+---
+
 ### Applications
 
 <br/>
