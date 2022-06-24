@@ -25,85 +25,117 @@
 <br/>
 
 **GANfolk: Using AI to Create Portraits of Fictional People to Sell as NFTs**
-(Blog post consists of many papers)
+| ![](/Images/gan_folks.jpeg)
+|:--:|
+| Example Generated GanFolk Faces |
 
-https://towardsdatascience.com/ganfolk-using-ai-to-create-portraits-of-fictional-people-to-sell-as-nfts-6e24f5214ed1 <br/>
+Application: https://towardsdatascience.com/ganfolk-using-ai-to-create-portraits-of-fictional-people-to-sell-as-nfts-6e24f5214ed1 <br/>
 
-**Dlib-ml: A Machine Learning Toolkit**
-
-https://www.jmlr.org/papers/volume10/king09a/king09a.pdf <br/>
-
-**A Style-Based Generator Architecture for Generative Adversarial Networks**
-
-https://arxiv.org/abs/1812.04948 <br/>
-https://github.com/NVlabs/ffhq-dataset <br/>
-
-**Ca-gan: Weakly supervised color aware gan for controllable makeup transfer**
-
-https://arxiv.org/abs/2008.10298 <br/>
-
-**Alias-Free Generative Adversarial Networks**
-
-https://arxiv.org/abs/2106.12423
-
-**Third Time’s the Charm? Image and Video Editing with StyleGAN3**
-
-https://arxiv.org/abs/2201.13433
-https://github.com/yuval-alaluf/stylegan3-editing <br/>
-
-**Towards real-world blind face restoration with generative facial prior**
-
-https://arxiv.org/abs/2101.04061
-https://github.com/TencentARC/GFPGAN <br/>
-
-**Analyzing and Improving the Image Quality of StyleGAN**
-
-https://arxiv.org/abs/1912.04958
-https://github.com/NVlabs/stylegan2
-
-**MyStyle: A Personalized Generative Prior**
-
-https://arxiv.org/abs/2203.17272
-
-**Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement**
-
-https://arxiv.org/abs/2106.11423
-
-**Gan Folks #1**
+Examples of GANFolks from OpenSea:
 
 https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/95949048702184002022994543019454797960309252011183799747181743845102298595329 <br/>
 
+**Ca-GAN: Weakly supervised color aware gan for controllable makeup transfer**
+
+| ![](/Images/cagan.png)
+|:--:|
+| Ca-GAN Approach to Transfer Makeup styles |
+
+Paper: https://arxiv.org/abs/2008.10298 <br/>
+
+**Towards real-world blind face restoration with generative facial prior**
+
+| ![](/Images/gfpgan.png)
+|:--:|
+| GFP-GAN Compared to Other Approaches and GT |
+
+Paper: https://arxiv.org/abs/2101.04061 <br/>
+Code: https://github.com/TencentARC/GFPGAN <br/>
+
+**MyStyle: A Personalized Generative Prior**
+
+| ![](/Images/mystyle.png)
+|:--:|
+| MyStyle Image Impainting |
+
+| ![](/Images/mystyle2.png)
+|:--:|
+| MyStyle Image Super Resolution |
+
+Paper: https://arxiv.org/abs/2203.17272 <br/>
+Project Page: https://mystyle-personalized-prior.github.io/ <br/>
+
+**Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement**
+
+| ![](/Images/normalizedavatar.png)
+|:--:|
+| Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement Examples |
+
+Paper: https://arxiv.org/abs/2106.11423 <br/>
+
 **DeepFaceLab: Integrated, flexible and extensible faceswapping framework**
+
+| ![](/Images/deepfake.png)
+|:--:|
+| Deepface Labs results from original [paper](https://arxiv.org/pdf/2005.05535.pdf) |
+
+Paper: https://arxiv.org/pdf/2005.05535.pdf <br/>
+Code: https://github.com/iperov/DeepFaceLab <br/>
 
 **Loreal Virtual Makeup Try-on**
 
-https://www.lorealparisusa.com/virtual-try-on-makeup <br/>
+App: https://www.lorealparisusa.com/virtual-try-on-makeup <br/>
 
 **Maybelline Virtual Makeup Try-on**
+| ![](/Images/ffhqtarget.png) ![](/Images/maybelline.png)
+|:--:|
+| Inference results from Maybelline Website |
 
-https://www.maybelline.com/virtual-try-on-makeup-tools <br/>
+App: https://www.maybelline.com/virtual-try-on-makeup-tools <br/>
 
 **NyxCosmetics Virtual Makeup Try-on**
 
-https://www.nyxcosmetics.com/try-it-on.html <br/>
+| ![](/Images/ffhqtarget.png) ![](/Images/nyx.png)
+|:--:|
+| Inference results from Nyx Website |
+
+App: https://www.nyxcosmetics.com/try-it-on.html <br/>
 
 **EyebuyDirect Virtual Glasses Try-on**
 
-https://www.eyebuydirect.com/virtual-try-on <br/>
+| ![](/Images/ffhqtarget.png) ![](/Images/eyebuydirect.png)
+|:--:|
+| Inference results from EyebuyDirect Website |
+
+App: https://www.eyebuydirect.com/virtual-try-on <br/>
 
 **Misterspex Virtual Glasses Try-on**
 
-https://www.misterspex.co.uk/l/pg/100508 <br/>
+| ![](/Images/glasses_spex.png) ![](/Images/glasses_spex2.png)
+|:--:|
+| Inference results from Misterspex Website |
+
+App: https://www.misterspex.co.uk/l/pg/100508 <br/>
 
 **ZenniOptical Virtual Glasses Try-on**
 
-https://www.zennioptical.com/tryon <br/>
+(ZenniOptical is using the same application for virtual try-on and the results are near identical)
+
+App: https://www.zennioptical.com/tryon <br/>
 
 **GPEN Face Restoration**
 
-https://replicate.com/yangxy/gpen <br/>
+| ![](/Images/Solvay_conference_1927.png) ![](/Images/solvay_hq.png)
+|:--:|
+| Solvay Conference Images With GPEN Inference |
+
+App: https://replicate.com/yangxy/gpen <br/>
 
 **RealESRGAN Application**
+
+| ![](/Images/realesrin.png) ![](/Images/realesrout.jpeg)
+|:--:|
+| Solvay Conference Images With GPEN Inference |
 
 https://huggingface.co/spaces/akhaliq/Real-ESRGAN <br/>
 
@@ -111,53 +143,85 @@ https://huggingface.co/spaces/akhaliq/Real-ESRGAN <br/>
 
 https://www.myheritage.com/deep-nostalgia <br/>
 
+| ![](/Images/einsteinanim.gif)
+|:--:|
+| Solvay Conference Images With GPEN Inference |
+
 **PhotoMyne Image Restoration**
 
 https://photomyne.com/ <br/>
 
 **ImageColorizer Image Colorizer**
 
+| ![](/Images/solvay_colored.jpg)
+|:--:|
+| Solvay Conference Image from Other Example Colored Now|
+
 https://imagecolorizer.com/ <br/>
 
 **VanceAI Image Restoration**
+
+| ![](/Images/vanceai_solvay.png)
+|:--:|
+| Solvay Conference Image Enhanced Using VanceAI |
 
 https://vanceai.com/old-photo-restoration/ <br/>
 
 **Nvidia Image Restoration**
 
+(Didn't work at the moment)
+
 https://www.nvidia.com/research/inpainting/index.html <br/>
 
 **ReminiAI Image Restoration**
+
+| ![](/Images/remini_solay.png)
+|:--:|
+| Solvay Conference Image Enhanced Using ReminiAI |
 
 https://remini.ai/ <br/>
 
 **Befunky Cartoonize Photos**
 
+| ![](/Images/ffhqtarget.png) ![](/Images/befunky.png)
+|:--:|
+| Image Cartoonized Using Befunky |
+
 https://www.befunky.com/features/photo-to-cartoon/ <br/>
 
-**BoredApp Generation**
+**BoredApp Generation and CryptoPunks Generation**
+
+| ![](/Images/boredapes.gif)
+|:--:|
+| HugginNFT Generator Result [from](https://github.com/AlekseyKorshuk/huggingnft)|
 
 https://huggingface.co/huggingnft/boredapeyachtclub <br/>
+https://huggingface.co/huggingnft/cryptopunks <br/>
 
 **Cartoonify Photos**
 
 https://www.kapwing.com/cartoonify <br/>
 
+(Didn't work at the time)
+
 **Cartoonize Photos**
 
 https://www.cartoonize.net/ <br/>
 
-**CyrptoPunks Generation**
-
-https://huggingface.co/huggingnft/cryptopunks <br/>
+(Cartoonizing was a pro feature)
 
 **Toonify.photos**
 
 https://toonify.photos/ <br/>
 
-**Huggingface Official Website**
+(Asking for a license key at the moment)
 
-https://huggingface.co/ <br/>
+### Databases
+
+**A Style-Based Generator Architecture for Generative Adversarial Networks**
+
+https://arxiv.org/abs/1812.04948 <br/>
+https://github.com/NVlabs/ffhq-dataset <br/>
 
 ### Neural Network Architectures for Generation of Faces
 
