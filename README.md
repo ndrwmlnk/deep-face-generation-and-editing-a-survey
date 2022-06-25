@@ -121,14 +121,6 @@ App: https://www.misterspex.co.uk/l/pg/100508 <br/>
 
 App: https://www.zennioptical.com/tryon <br/>
 
-**GPEN Face Restoration**
-
-| <img src='/Images/solvay_half.png' style='height: 350px'><img src='/Images/solvay_hq_half.png' style='height: 350px'>
-|:--:|
-| Solvay Conference Images With GPEN Inference |
-
-App: https://replicate.com/yangxy/gpen <br/>
-
 **RealESRGAN Application**
 
 |<img src='/Images/realesrin.png' style='height: 350px'><img src='/Images/realesrout.jpeg' style='height: 350px'>
@@ -145,13 +137,21 @@ App: https://www.myheritage.com/deep-nostalgia <br/>
 |:--:|
 | Solvay Conference Images With GPEN Inference |
 
+**GPEN Face Restoration**
+
+| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/solvay_hq_half.png' style='height: 300px'>
+|:--:|
+| Solvay Conference Images With GPEN Inference |
+
+App: https://replicate.com/yangxy/gpen <br/>
+
 **PhotoMyne Image Restoration**
 
 App: https://photomyne.com/ <br/>
 
 **ImageColorizer Image Colorizer**
 
-| <img src='/Images/solvay_half.png' style='height: 350px'><img src='/Images/solvay_colored_half.png' style='height: 350px'>
+| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/solvay_colored_half.png' style='height: 300px'>
 |:--:|
 | Solvay Conference Image Colored|
 
@@ -159,7 +159,7 @@ App: https://imagecolorizer.com/ <br/>
 
 **VanceAI Image Restoration**
 
-| <img src='/Images/solvay_half.png' style='height: 350px'><img src='/Images/vanceai_solvay_half.png' style='height: 350px'>
+| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/vanceai_solvay_half.png' style='height: 300px'>
 |:--:|
 | Solvay Conference Image Enhanced Using VanceAI |
 
@@ -173,7 +173,7 @@ App: https://www.nvidia.com/research/inpainting/index.html <br/>
 
 **ReminiAI Image Restoration**
 
-| <img src='/Images/solvay_half.png' style='height: 350px'><img src='/Images/remini_solvay_half.png' style='height: 350px'>
+| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/remini_solvay_half.png' style='height: 300px'>
 |:--:|
 | Solvay Conference Image Enhanced Using ReminiAI |
 
