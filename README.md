@@ -6,7 +6,7 @@
 
 ### Introduction
 
-<br />
+<br/>
 
 -   [1. Introduction](#introduction)
 -   [2. Applications](#applications)
@@ -61,7 +61,7 @@ Code: https://github.com/TencentARC/GFPGAN <br/>
 |                    Solarized dark                     |                    Solarized Ocean                     |
 
 Paper: https://arxiv.org/abs/2203.17272 <br/>
-Project Page: https://mystyle-personalized-prior.github.io/ <br/>
+Project: https://mystyle-personalized-prior.github.io/ <br/>
 
 **Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement**
 
@@ -210,7 +210,7 @@ App: https://www.kapwing.com/cartoonify <br/>
 
 App: https://www.cartoonize.net/ <br/>
 
-(Cartoonizing was a pro feature: : 24.06.2022)
+(Cartoonizing was a pro feature: 24.06.2022)
 
 **Toonify.photos**
 
@@ -224,6 +224,9 @@ App: https://toonify.photos/ <br/>
 
 ### Datasets
 
+<br/>
+
+
 **A Style-Based Generator Architecture for Generative Adversarial Networks**
 
 | <img src='/Images/ffhq_dataset.jpg' style='height: 250px'>
@@ -231,7 +234,7 @@ App: https://toonify.photos/ <br/>
 |FFHQ Dataset |
 
 Paper: https://arxiv.org/abs/1812.04948 <br/>
-Dataset repo: https://github.com/NVlabs/ffhq-dataset <br/>
+Dataset: https://github.com/NVlabs/ffhq-dataset <br/>
 
 **Celeb-a Dataset**
 
@@ -239,7 +242,7 @@ Dataset repo: https://github.com/NVlabs/ffhq-dataset <br/>
 |:--:|
 |Celeb-a Dataset |
 
-Dataset Repo: https://github.com/tkarras/progressive_growing_of_gans <br/>
+Dataset: https://github.com/tkarras/progressive_growing_of_gans <br/>
 
 **Celeb-a Mask-HQ Dataset**
 
@@ -247,7 +250,7 @@ Dataset Repo: https://github.com/tkarras/progressive_growing_of_gans <br/>
 |:--:|
 |Celeb-a Mash HQ Dataset |
 
-Dataset Repo: https://github.com/switchablenorms/CelebAMask-HQ <br/>
+Dataset: https://github.com/switchablenorms/CelebAMask-HQ <br/>
 
 **Celeb-a Multi-Modal Dataset**
 
@@ -255,7 +258,7 @@ Dataset Repo: https://github.com/switchablenorms/CelebAMask-HQ <br/>
 |:--:|
 |Celeb-a Multi-Modal Dataset |
 
-Dataset Repo: https://github.com/IIGROUP/MM-CelebA-HQ-Dataset <br/>
+Dataset: https://github.com/IIGROUP/MM-CelebA-HQ-Dataset <br/>
 
 ---
 
@@ -265,13 +268,13 @@ Dataset Repo: https://github.com/IIGROUP/MM-CelebA-HQ-Dataset <br/>
 
 **Analyzing and Improving the Image Quality of StyleGAN**
 
+Paper: https://arxiv.org/abs/1912.04958 <br/>
 Code: https://github.com/NVlabs/stylegan2 <br/>
-Paper: https://arxiv.org/abs/1912.04958 <br />
 
 **DeepFaceLab: Integrated, flexible and extensible face-swapping framework**
 
-Code: https://github.com/iperov/DeepFaceLab <br/>
 Paper: https://arxiv.org/abs/2005.05535 <br/>
+Code: https://github.com/iperov/DeepFaceLab <br/>
 
 **MyStyle: A Personalized Generative Prior**
 
@@ -290,16 +293,16 @@ Code: https://github.com/yuval-alaluf/stylegan3-editing <br/>
 
 **ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
 
-Paper: https://arxiv.org/abs/1801.07698 <br />
+Paper: https://arxiv.org/abs/1801.07698 <br/>
 
 **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**
 
-Paper: https://arxiv.org/abs/1801.03924 <br />
+Paper: https://arxiv.org/abs/1801.03924 <br/>
 
 **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**
 
 Paper: https://arxiv.org/abs/1706.08500 <br/>
-Code: https://github.com/NVlabs/stylegan3 <br />
+Code: https://github.com/NVlabs/stylegan3 <br/>
 
 ---
 
@@ -309,11 +312,11 @@ Code: https://github.com/NVlabs/stylegan3 <br />
 
 **StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation**
 
-Paper: https://arxiv.org/abs/2011.12799 <br />
+Paper: https://arxiv.org/abs/2011.12799 <br/>
 
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?-Supplementary Material**
 
-Paper: https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Abdal_Image2StyleGAN_How_to_ICCV_2019_supplemental.pdf <br />
+Paper: https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Abdal_Image2StyleGAN_How_to_ICCV_2019_supplemental.pdf <br/>
 
 ---
 
@@ -323,11 +326,11 @@ Paper: https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Abdal_Image2
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**
 
-Paper: https://arxiv.org/abs/2008.00951 <br />
+Paper: https://arxiv.org/abs/2008.00951 <br/>
 
 **Analyzing and Improving the Image Quality of StyleGAN**
 
-Paper: https://arxiv.org/abs/1912.04958 <br />
+Paper: https://arxiv.org/abs/1912.04958 <br/>
 
 ---
 
@@ -337,15 +340,15 @@ Paper: https://arxiv.org/abs/1912.04958 <br />
 
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**
 
-Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html <br />
+Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html <br/>
 
 **Designing an Encoder for StyleGAN Image Manipulation**
 
-Paper: https://arxiv.org/abs/2102.02766 <br />
+Paper: https://arxiv.org/abs/2102.02766 <br/>
 
 **Learning Transferable Visual Models From Natural Language Supervision**
 
-Paper: https://arxiv.org/abs/2103.00020 <br />
+Paper: https://arxiv.org/abs/2103.00020 <br/>
 
 ---
 
@@ -355,18 +358,18 @@ Paper: https://arxiv.org/abs/2103.00020 <br />
 
 **Pivotal Tuning for Latent-based Editing of Real Images**
 
-Paper: https://arxiv.org/abs/2106.05744 <br />
+Paper: https://arxiv.org/abs/2106.05744 <br/>
 
 **Analyzing and Improving the Image Quality of StyleGAN**
 
+Paper: https://arxiv.org/abs/1912.04958 <br/>
 Code: https://github.com/NVlabs/stylegan2 <br/>
-Paper: https://arxiv.org/abs/1912.04958 <br />
 
 ---
 
 ### Deep Fake
 
-<br />
+<br/>
 
 **DeepFaceLab: Integrated, flexible and extensible face-swapping framework**
 
@@ -377,24 +380,29 @@ Code: https://github.com/iperov/DeepFaceLab <br/>
 
 ### Deblurring
 
-<br />
+<br/>
 
 **GAN Prior Embedded Network for Blind Face Restoration in the Wild**
+
 Paper: https://arxiv.org/abs/2105.06070 <br/>
-Code: https://github.com/yangxy/GPEN <br />
+Code: https://github.com/yangxy/GPEN <br/>
 
 **Towards Real-World Blind Face Restoration with Generative Facial Prior**
-Paper:https://arxiv.org/abs/2101.04061 <br/>
+
+Paper: https://arxiv.org/abs/2101.04061 <br/>
 Code: https://github.com/TencentARC/GFPGAN <br/>
 
 **Deblurring by Realistic Blurring**
-Paper:https://arxiv.org/abs/2004.01860v2 <br/>
+
+Paper: https://arxiv.org/abs/2004.01860v2 <br/>
 Code: https://github.com/HDCVLab/Deblurring-by-Realistic-Blurring <br/>
 
 **DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better**
+
 Paper: https://arxiv.org/abs/1908.03826v1 <br/>
 Code: https://github.com/VITA-Group/DeblurGANv2 <br/>
 
 **ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks**
-Paper:https://arxiv.org/abs/1809.00219 <br/>
+
+Paper: https://arxiv.org/abs/1809.00219 <br/>
 Code: https://github.com/xinntao/ESRGAN <br/>
