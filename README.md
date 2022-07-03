@@ -85,7 +85,7 @@ Code: https://github.com/iperov/DeepFaceLab <br/>
 App: https://www.lorealparisusa.com/virtual-try-on-makeup <br/>
 
 **Maybelline Virtual Makeup Try-on**
-| <img src='/Images/ffhqtarget.png' style='height: 350px'><img src='/Images/maybelline.png' style='height: 350px'>
+| <img src='/Images/ffhqtarget.png' style='height: 250px'><img src='/Images/maybelline.png' style='height: 250px'>
 |:--:|
 | Inference results from Maybelline Website |
 
@@ -93,7 +93,7 @@ App: https://www.maybelline.com/virtual-try-on-makeup-tools <br/>
 
 **NyxCosmetics Virtual Makeup Try-on**
 
-| <img src='/Images/ffhqtarget.png' style='height: 350px'><img src='/Images/nyx.png' style='height: 350px'>
+| <img src='/Images/ffhqtarget.png' style='height: 250px'><img src='/Images/nyx.png' style='height: 250px'>
 |:--:|
 | Inference results from Nyx Website |
 
@@ -101,7 +101,7 @@ App: https://www.nyxcosmetics.com/try-it-on.html <br/>
 
 **EyebuyDirect Virtual Glasses Try-on**
 
-| <img src='/Images/ffhqtarget.png' style='height: 350px'><img src='/Images/eyebuydirect.png' style='height: 350px'>
+| <img src='/Images/ffhqtarget.png' style='height: 250px'><img src='/Images/eyebuydirect.png' style='height: 250px; width: 250px'>
 |:--:|
 | Inference results from EyebuyDirect Website |
 
@@ -109,7 +109,7 @@ App: https://www.eyebuydirect.com/virtual-try-on <br/>
 
 **Misterspex Virtual Glasses Try-on**
 
-| <img src='/Images/glasses_spex.png' style='height: 400px'><img src='/Images/glasses_spex2.png' style='height: 400px'>
+| <img src='/Images/glasses_spex.png' style='height: 300px'><img src='/Images/glasses_spex2.png' style='height: 300px'>
 |:--:|
 | Inference results from Misterspex Website |
 
@@ -123,9 +123,9 @@ App: https://www.zennioptical.com/tryon <br/>
 
 **RealESRGAN Application**
 
-|<img src='/Images/realesrin.png' style='height: 350px'><img src='/Images/realesrout.jpeg' style='height: 350px'>
+|<img src='/Images/realesrin.png' style='height: 250px'><img src='/Images/realesrout.jpeg' style='height: 250px'>
 |:--:|
-| Solvay Conference Images With GPEN Inference |
+| RealESR GAN Image Enchancement|
 
 App: https://huggingface.co/spaces/akhaliq/Real-ESRGAN <br/>
 
@@ -133,25 +133,29 @@ App: https://huggingface.co/spaces/akhaliq/Real-ESRGAN <br/>
 
 App: https://www.myheritage.com/deep-nostalgia <br/>
 
-| ![](/Images/einsteinanim.gif)
+| <img src='/Images/einsteinanim.gif' style='height: 300px'>
 |:--:|
-| Solvay Conference Images With GPEN Inference |
+| MyHeritage Image Animation |
+
+**PhotoMyne Image Restoration**
+
+| <img src='/Images/pymne.jpg' style='height: 300px'>
+|:--:|
+|PhotoMyne Old Image Restoration App |
+
+App: https://photomyne.com/ <br/>
 
 **GPEN Face Restoration**
 
-| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/solvay_hq_half.png' style='height: 300px'>
+| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/solvay_hq_half.png' style='height: 250px'>
 |:--:|
 | Solvay Conference Images With GPEN Inference |
 
 App: https://replicate.com/yangxy/gpen <br/>
 
-**PhotoMyne Image Restoration**
-
-App: https://photomyne.com/ <br/>
-
 **ImageColorizer Image Colorizer**
 
-| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/solvay_colored_half.png' style='height: 300px'>
+| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/solvay_colored_half.png' style='height: 250px'>
 |:--:|
 | Solvay Conference Image Colored|
 
@@ -159,48 +163,48 @@ App: https://imagecolorizer.com/ <br/>
 
 **VanceAI Image Restoration**
 
-| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/vanceai_solvay_half.png' style='height: 300px'>
+| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/vanceai_solvay_half.png' style='height: 250px'>
 |:--:|
 | Solvay Conference Image Enhanced Using VanceAI |
 
 App: https://vanceai.com/old-photo-restoration/ <br/>
 
-**Nvidia Image Restoration**
-
-(Didn't work at the moment)
-
-App: https://www.nvidia.com/research/inpainting/index.html <br/>
-
 **ReminiAI Image Restoration**
 
-| <img src='/Images/solvay_half.png' style='height: 300px'><img src='/Images/remini_solvay_half.png' style='height: 300px'>
+| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/remini_solvay_half.png' style='height: 250px'>
 |:--:|
 | Solvay Conference Image Enhanced Using ReminiAI |
 
 App: https://remini.ai/ <br/>
 
-**Befunky Cartoonize Photos**
+**Nvidia Image Restoration**
+
+ <img src='/Images/einstein.gif' style='height: 275px'>
+
+App: https://www.nvidia.com/research/inpainting/index.html <br/>
+
+<!-- **Befunky Cartoonize Photos**
 
 | <img src='/Images/ffhqtarget.png' style='height: 350px'><img src='/Images/befunky.png' style='height: 350px'>
 |:--:|
 | Image Cartoonized Using Befunky |
 
-App: https://www.befunky.com/features/photo-to-cartoon/ <br/>
+App: https://www.befunky.com/features/photo-to-cartoon/ <br/> -->
 
 **BoredApp Generation and CryptoPunks Generation**
 
-| ![](/Images/bored_compressed.gif)
+| <img src='/Images/bored_compressed.gif' style='height: 300px'>
 |:--:|
 | HugginNFT Generator Result [from](https://github.com/AlekseyKorshuk/huggingnft)|
 
 App: https://huggingface.co/huggingnft/boredapeyachtclub <br/>
 App: https://huggingface.co/huggingnft/cryptopunks <br/>
 
-**Cartoonify Photos**
+<!-- **Cartoonify Photos**
 
 App: https://www.kapwing.com/cartoonify <br/>
 
-(Didn't work at the time: 24.06.2022)
+(Didn't work at the time: 24.06.2022) -->
 
 **Cartoonize Photos**
 
@@ -210,9 +214,11 @@ App: https://www.cartoonize.net/ <br/>
 
 **Toonify.photos**
 
-App: https://toonify.photos/ <br/>
+| <img src='/Images/arnold.jpg' style='height: 300px'>
+|:--:|
+| Arnold photo toonified [from](https://toonify.photos/)|
 
-(Asking for a license key at the moment: : 24.06.2022)
+App: https://toonify.photos/ <br/>
 
 ---
 
@@ -220,7 +226,7 @@ App: https://toonify.photos/ <br/>
 
 **A Style-Based Generator Architecture for Generative Adversarial Networks**
 
-| <img src='/Images/ffhq_dataset.jpg' style='height: 300px'>
+| <img src='/Images/ffhq_dataset.jpg' style='height: 250px'>
 |:--:|
 |FFHQ Dataset |
 
@@ -229,7 +235,7 @@ Dataset repo: https://github.com/NVlabs/ffhq-dataset <br/>
 
 **Celeb-a Dataset**
 
-| <img src='/Images/celeba.png' style='height: 300px'>
+| <img src='/Images/celeba.png' style='height: 250px'>
 |:--:|
 |Celeb-a Dataset |
 
@@ -237,7 +243,7 @@ Dataset Repo: https://github.com/tkarras/progressive_growing_of_gans <br/>
 
 **Celeb-a Mask-HQ Dataset**
 
-| <img src='/Images/celebamaskhq.jpeg' style='height: 300px'>
+| <img src='/Images/celebamaskhq.jpeg' style='height: 250px'>
 |:--:|
 |Celeb-a Mash HQ Dataset |
 
@@ -245,7 +251,7 @@ Dataset Repo: https://github.com/switchablenorms/CelebAMask-HQ <br/>
 
 **Celeb-a Multi-Modal Dataset**
 
-| <img src='/Images/celebamulti.jpg' style='height: 300px'>
+| <img src='/Images/celebamulti.jpg' style='height: 250px'>
 |:--:|
 |Celeb-a Multi-Modal Dataset |
 
@@ -259,22 +265,22 @@ Dataset Repo: https://github.com/IIGROUP/MM-CelebA-HQ-Dataset <br/>
 
 **Analyzing and Improving the Image Quality of StyleGAN**
 
-https://github.com/NVlabs/stylegan2
-https://arxiv.org/abs/1912.04958 <br />
+Code: https://github.com/NVlabs/stylegan2 <br/>
+Paper: https://arxiv.org/abs/1912.04958 <br />
 
 **DeepFaceLab: Integrated, flexible and extensible face-swapping framework**
 
-https://arxiv.org/abs/2005.05535
-https://github.com/iperov/DeepFaceLab <br/>
+Code: https://github.com/iperov/DeepFaceLab <br/>
+Paper: https://arxiv.org/abs/2005.05535 <br/>
 
 **MyStyle: A Personalized Generative Prior**
 
-https://arxiv.org/abs/2203.17272 <br/>
+Paper: https://arxiv.org/abs/2203.17272 <br/>
 
 **Third Time's the Charm? Image and Video Editing with StyleGAN3**
 
-https://arxiv.org/abs/2201.13433
-https://github.com/yuval-alaluf/stylegan3-editing <br/>
+Paper: https://arxiv.org/abs/2201.13433 <br/>
+Code: https://github.com/yuval-alaluf/stylegan3-editing <br/>
 
 ---
 
@@ -284,16 +290,16 @@ https://github.com/yuval-alaluf/stylegan3-editing <br/>
 
 **ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
 
-https://arxiv.org/abs/1801.07698 <br />
+Paper: https://arxiv.org/abs/1801.07698 <br />
 
 **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**
 
-https://arxiv.org/abs/1801.03924 <br />
+Paper: https://arxiv.org/abs/1801.03924 <br />
 
 **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**
 
-https://arxiv.org/abs/1706.08500
-https://github.com/NVlabs/stylegan3 <br />
+Paper: https://arxiv.org/abs/1706.08500 <br/>
+Code: https://github.com/NVlabs/stylegan3 <br />
 
 ---
 
@@ -303,11 +309,11 @@ https://github.com/NVlabs/stylegan3 <br />
 
 **StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation**
 
-https://arxiv.org/abs/2011.12799 <br />
+Paper: https://arxiv.org/abs/2011.12799 <br />
 
 **Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?-Supplementary Material**
 
-https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Abdal_Image2StyleGAN_How_to_ICCV_2019_supplemental.pdf <br />
+Paper: https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Abdal_Image2StyleGAN_How_to_ICCV_2019_supplemental.pdf <br />
 
 ---
 
@@ -317,11 +323,11 @@ https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Abdal_Image2StyleGA
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**
 
-https://arxiv.org/abs/2008.00951 <br />
+Paper: https://arxiv.org/abs/2008.00951 <br />
 
 **Analyzing and Improving the Image Quality of StyleGAN**
 
-https://arxiv.org/abs/1912.04958 <br />
+Paper: https://arxiv.org/abs/1912.04958 <br />
 
 ---
 
@@ -331,15 +337,15 @@ https://arxiv.org/abs/1912.04958 <br />
 
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**
 
-https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html <br />
+Paper: https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html <br />
 
 **Designing an Encoder for StyleGAN Image Manipulation**
 
-https://arxiv.org/abs/2102.02766 <br />
+Paper: https://arxiv.org/abs/2102.02766 <br />
 
 **Learning Transferable Visual Models From Natural Language Supervision**
 
-https://arxiv.org/abs/2103.00020 <br />
+Paper: https://arxiv.org/abs/2103.00020 <br />
 
 ---
 
@@ -349,12 +355,12 @@ https://arxiv.org/abs/2103.00020 <br />
 
 **Pivotal Tuning for Latent-based Editing of Real Images**
 
-https://arxiv.org/abs/2106.05744 <br />
+Paper: https://arxiv.org/abs/2106.05744 <br />
 
 **Analyzing and Improving the Image Quality of StyleGAN**
 
-https://github.com/NVlabs/stylegan2
-https://arxiv.org/abs/1912.04958 <br />
+Code: https://github.com/NVlabs/stylegan2 <br/>
+Paper: https://arxiv.org/abs/1912.04958 <br />
 
 ---
 
@@ -364,8 +370,8 @@ https://arxiv.org/abs/1912.04958 <br />
 
 **DeepFaceLab: Integrated, flexible and extensible face-swapping framework**
 
-https://arxiv.org/abs/2005.05535
-https://github.com/iperov/DeepFaceLab <br/>
+Paper: https://arxiv.org/abs/2005.05535 <br/>
+Code: https://github.com/iperov/DeepFaceLab <br/>
 
 ---
 
@@ -374,21 +380,21 @@ https://github.com/iperov/DeepFaceLab <br/>
 <br />
 
 **GAN Prior Embedded Network for Blind Face Restoration in the Wild**
-https://arxiv.org/abs/2105.06070
-https://github.com/yangxy/GPEN <br />
+Paper: https://arxiv.org/abs/2105.06070 <br/>
+Code: https://github.com/yangxy/GPEN <br />
 
 **Towards Real-World Blind Face Restoration with Generative Facial Prior**
-https://arxiv.org/abs/2101.04061
-https://github.com/TencentARC/GFPGAN <br/>
+Paper:https://arxiv.org/abs/2101.04061 <br/>
+Code: https://github.com/TencentARC/GFPGAN <br/>
 
 **Deblurring by Realistic Blurring**
-https://arxiv.org/abs/2004.01860v2
-https://github.com/HDCVLab/Deblurring-by-Realistic-Blurring <br/>
+Paper:https://arxiv.org/abs/2004.01860v2 <br/>
+Code: https://github.com/HDCVLab/Deblurring-by-Realistic-Blurring <br/>
 
 **DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better**
-https://arxiv.org/abs/1908.03826v1
-https://github.com/VITA-Group/DeblurGANv2 <br/>
+Paper: https://arxiv.org/abs/1908.03826v1 <br/>
+Code: https://github.com/VITA-Group/DeblurGANv2 <br/>
 
 **ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks**
-https://arxiv.org/abs/1809.00219
-https://github.com/xinntao/ESRGAN <br/>
+Paper:https://arxiv.org/abs/1809.00219 <br/>
+Code: https://github.com/xinntao/ESRGAN <br/>
