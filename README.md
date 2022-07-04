@@ -133,7 +133,7 @@ App: https://huggingface.co/spaces/akhaliq/Real-ESRGAN <br/>
 
 App: https://www.myheritage.com/deep-nostalgia <br/>
 
-| <img src='/Images/einsteinanim.gif' style='height: 300px'>
+| <img src='/Images/einsteinanim_small_opt.gif' style='height: 300px'>
 |:--:|
 | MyHeritage Image Animation |
 
@@ -193,7 +193,7 @@ App: https://www.befunky.com/features/photo-to-cartoon/ <br/> -->
 
 **BoredApp Generation and CryptoPunks Generation**
 
-| <img src='/Images/bored_compressed.gif' style='height: 100px'>
+| <img src='/Images/ape_small_opt.gif' style='height: 300px'>
 |:--:|
 | HugginNFT Generator Result [from](https://github.com/AlekseyKorshuk/huggingnft)|
 
@@ -214,7 +214,7 @@ App: https://www.cartoonize.net/ <br/>
 
 **Toonify.photos**
 
-| <img src='/Images/arnold.jpg' style='height: 300px'>
+| <img src='/Images/arnold.jpg' style='height: 200px'>
 |:--:|
 | Arnold photo toonified [from](https://toonify.photos/)|
 
@@ -225,7 +225,6 @@ App: https://toonify.photos/ <br/>
 ### Datasets
 
 <br/>
-
 
 **A Style-Based Generator Architecture for Generative Adversarial Networks**
 
