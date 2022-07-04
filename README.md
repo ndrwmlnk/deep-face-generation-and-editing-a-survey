@@ -228,7 +228,7 @@ App: https://toonify.photos/ <br/>
 
 **A Style-Based Generator Architecture for Generative Adversarial Networks**
 
-| <img src='/Images/ffhq_dataset.jpg' style='height: 250px'>
+| <img src='/Images/ffhq_dataset.jpg' style='height: 225px'>
 |:--:|
 |FFHQ Dataset |
 
@@ -237,7 +237,7 @@ Dataset: https://github.com/NVlabs/ffhq-dataset <br/>
 
 **Celeb-a Dataset**
 
-| <img src='/Images/celeba.png' style='height: 250px'>
+| <img src='/Images/celeba.png' style='height: 225px'>
 |:--:|
 |Celeb-a Dataset |
 
@@ -245,7 +245,7 @@ Dataset: https://github.com/tkarras/progressive_growing_of_gans <br/>
 
 **Celeb-a Mask-HQ Dataset**
 
-| <img src='/Images/celebamaskhq.jpeg' style='height: 250px'>
+| <img src='/Images/celebamaskhq.jpeg' style='height: 225px'>
 |:--:|
 |Celeb-a Mash HQ Dataset |
 
@@ -253,11 +253,85 @@ Dataset: https://github.com/switchablenorms/CelebAMask-HQ <br/>
 
 **Celeb-a Multi-Modal Dataset**
 
-| <img src='/Images/celebamulti.jpg' style='height: 250px'>
+| <img src='/Images/celebamulti.jpg' style='height: 200px'>
 |:--:|
 |Celeb-a Multi-Modal Dataset |
 
 Dataset: https://github.com/IIGROUP/MM-CelebA-HQ-Dataset <br/>
+
+**FaceForensics++**
+
+| <img src='/Images/forensics.jpg' style='height: 200px'>
+|:--:|
+|FaceForensics Dataset|
+
+Github: https://github.com/ondyari/FaceForensics <br/>
+Data/Description: http://niessnerlab.org/projects/roessler2018faceforensics.html <br/>
+
+**DeepFake Detection Challenge Dataset**
+
+| <img src='/Images/deepfakeds.jpeg' style='height: 250px'>
+|:--:|
+|DeepFake Detection Challenge Dataset|
+
+Data/Description: https://ai.facebook.com/datasets/dfdc/
+
+**FaceWarehouse: a 3D Facial Expression Database for Visual Computing**
+
+| <img src='/Images/facewh.png' style='height: 250px'><img src='/Images/facewh2.png' style='height: 250px'>
+|:--:|
+|FaceWarehouseDataset|
+
+Data/Description: http://kunzhou.net/zjugaps/facewarehouse/
+
+**MetFaces**
+
+| <img src='/Images/metfaces.png' style='height: 200px'>
+|:--:|
+|MetFaces |
+
+Data/Description : https://paperswithcode.com/dataset/metfaces
+
+**CelebDf**
+
+| <img src='/Images/celeb-df.jpg' style='height: 200px'>
+|:--:|
+|CelebDf |
+
+Data/Description : https://paperswithcode.com/dataset/celeb-df
+
+**LFW (Labeled Faces in the Wild)**
+
+| <img src='/Images/lfw.jpg' style='height: 200px'>
+|:--:|
+|LFW (Labeled Faces in the Wild) |
+
+Data/Description : https://paperswithcode.com/dataset/lfw
+
+**MegaFace (Retired Data set)**
+
+| <img src='/Images/megaface.png' style='height: 200px'>
+|:--:|
+|MegaFace (Retired Data set) |
+
+Data/Description : https://paperswithcode.com/dataset/megaface
+
+**VGGFace2 HQ**
+| <img src='/Images/vggface.png' style='height: 200px'>
+|:--:|
+|VGG Face 2 HQ|
+
+Data/Description : https://paperswithcode.com/dataset/vggface2-hq
+
+**ArtBench-10**
+
+(Not a faces data set directly but used with stylegan2 to train conditional image generation models)
+
+| <img src='/Images/art-bench-10.png' style='height: 250px'>
+|:--:|
+|ArtBench-10 |
+
+Data/Description : https://paperswithcode.com/dataset/artbench-10
 
 ---
 
