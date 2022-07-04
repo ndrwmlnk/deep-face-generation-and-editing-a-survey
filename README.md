@@ -193,7 +193,7 @@ App: https://www.befunky.com/features/photo-to-cartoon/ <br/> -->
 
 **BoredApp Generation and CryptoPunks Generation**
 
-| <img src='/Images/bored_compressed.gif' style='height: 300px'>
+| <img src='/Images/bored_compressed.gif' style='height: 100px'>
 |:--:|
 | HugginNFT Generator Result [from](https://github.com/AlekseyKorshuk/huggingnft)|
 
