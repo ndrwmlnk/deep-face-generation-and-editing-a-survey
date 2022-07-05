@@ -4,21 +4,16 @@
 [//]: # "Deep Face Generation and Editing: A Survey"
 [//]: # "Deep Face Synthesis and Editing: A Survey"
 
-### Introduction
-
-<br/>
-
--   [1. Introduction](#introduction)
--   [2. Applications](#applications)
--   [2b. Datasets](#datasets)
--   [3. Neural Network Architectures for Generation of Faces](#neural-network-architectures-for-generation-of-faces)
--   [4. Similarity of Faces and Loses For Training](#similarity-of-faces-and-loses-for-training)
--   [5. The Latent Space](#the-latent-space)
--   [6. GAN Inversion to the Latent Space](#gan-inversion-to-the-latent-space)
--   [7. Editing of Generated Images ](#editing-of-generated-images)
--   [8. Finding control parameters in the latent space - Editing approaches](#finding-control-parameters-in-the-latent-space)
--   [9. Deep Fake](#deep-fake)
--   [10. Deblurring](#deblurring)
+-   [Applications](#applications)
+-   [Datasets](#datasets)
+-   [Neural Network Architectures for Generation of Faces](#neural-network-architectures-for-generation-of-faces)
+-   [Similarity of Faces and Loses For Training](#similarity-of-faces-and-loses-for-training)
+-   [The Latent Space](#the-latent-space)
+-   [GAN Inversion to the Latent Space](#gan-inversion-to-the-latent-space)
+-   [Editing of Generated Images ](#editing-of-generated-images)
+-   [Finding control parameters in the latent space - Editing approaches](#finding-control-parameters-in-the-latent-space)
+-   [Deep Fake](#deep-fake)
+-   [Deblurring](#deblurring)
 
 ---
 
