@@ -135,10 +135,10 @@ iOS App: https://apps.apple.com/us/app/peachy-gesicht-bearbeiten/id1390423469?l=
 iOS App: https://apps.apple.com/de/app/youcam-makeup-selfie-editor/id863844475
 Android App: https://play.google.com/store/apps/details?id=com.cyberlink.youcammakeup&hl=tr&gl=US
 
-**Video Face Replacement**
-| <video  height="360" controls ><source src='/Images/reface.MP4'  type="video/mp4"></video>
+**Video Face Replacement Using ReFace**
+| <img src='/Images/reface-gif.gif' style='height: 300px'>
 |:--:|
-| Inference results from Misterspex Website |
+| Inference results from Reface App |
 
 **Misterspex Virtual Glasses Try-on**
 
@@ -362,7 +362,7 @@ Data/Description : https://paperswithcode.com/dataset/vggface2-hq
 
 (Not a faces data set directly but used with stylegan2 to train conditional image generation models)
 
-| <img src='/Images/art-bench-10.png' style='height: 250px'>
+| <img src='/Images/art-bench-10.jpg' style='height: 250px'>
 |:--:|
 |ArtBench-10 |
 
