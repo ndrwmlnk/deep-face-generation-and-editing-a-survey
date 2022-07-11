@@ -156,23 +156,24 @@ App: https://www.zennioptical.com/tryon <br/>
 
 **RealESRGAN Application**
 
-|<img src='/Images/realesrin.png' style='height: 250px'><img src='/Images/realesrout.jpeg' style='height: 250px'>
+|<img src='/Images/realesrin.png' style='height: 200px'><img src='/Images/realesrout.jpeg' style='height: 200px'>
 |:--:|
 | RealESR GAN Image Enchancement|
 
 App: https://huggingface.co/spaces/akhaliq/Real-ESRGAN <br/>
+Paper: https://arxiv.org/abs/2107.10833 <br/>
 
 **My Heritage Deep Nostalgia**
 
 App: https://www.myheritage.com/deep-nostalgia <br/>
 
-| <img src='/Images/einsteinanim_small_opt.gif' style='height: 300px'>
+| <img src='/Images/einsteinanim_small_opt.gif' style='height: 250px'>
 |:--:|
 | MyHeritage Image Animation |
 
 **PhotoMyne Image Restoration**
 
-| <img src='/Images/pymne.jpg' style='height: 300px'>
+| <img src='/Images/pymne.jpg' style='height: 250px'>
 |:--:|
 |PhotoMyne Old Image Restoration App |
 
@@ -188,7 +189,7 @@ App: https://photomyne.com/ <br/>
 
 ##### GPEN Face Restoration
 
-| <img src='/Images/solvay_hq_half.png' style='height: 190px'><img src='/Images/vanceai_solvay_half.png' style='height: 190px'><img src='/Images/remini_solvay_half.png' style='height: 190px'>
+| <img src='/Images/solvay_hq_half.png' style='height: 200px'><img src='/Images/vanceai_solvay_half.png' style='height: 200px'><img src='/Images/remini_solvay_half.png' style='height: 200px'>
 |:--:|
 | Solvay Conference Image Restoration Using GPEN, VanceAI and ReminiAI from left to right. |
 
@@ -214,7 +215,7 @@ App: https://imagecolorizer.com/ <br/>
 
 **Nvidia Image Restoration**
 
- <img src='/Images/einstein.gif' style='height: 275px'>
+ <img src='/Images/einstein.gif' style='height: 250px'>
 
 App: https://www.nvidia.com/research/inpainting/index.html <br/>
 
@@ -228,7 +229,7 @@ App: https://www.befunky.com/features/photo-to-cartoon/ <br/> -->
 
 **BoredApp Generation and CryptoPunks Generation**
 
-| <img src='/Images/ape_small_opt.gif' style='height: 300px'>
+| <img src='/Images/ape_small_opt.gif' style='height: 250px'>
 |:--:|
 | HugginNFT Generator Result [from](https://github.com/AlekseyKorshuk/huggingnft)|
 
