@@ -4,7 +4,8 @@
 [//]: # "Deep Face Generation and Editing: A Survey"
 [//]: # "Deep Face Synthesis and Editing: A Survey"
 
--   [Applications](#applications)
+-   [Applications Papers](#applications-papers)
+-   [Applications Applied](#applications-applied)
 -   [Datasets](#datasets)
 -   [Neural Network Architectures for Generation of Faces](#neural-network-architectures-for-generation-of-faces)
 -   [Similarity of Faces and Loses For Training](#similarity-of-faces-and-loses-for-training)
@@ -17,20 +18,7 @@
 
 ---
 
-### Applications
-
-<br/>
-
-**GANfolk: Using AI to Create Portraits of Fictional People to Sell as NFTs**
-| <img src='/Images/gan_folks.jpeg' style='height: 225px'>
-|:--:|
-| Example Generated GanFolk Faces |
-
-App: https://towardsdatascience.com/ganfolk-using-ai-to-create-portraits-of-fictional-people-to-sell-as-nfts-6e24f5214ed1 <br/>
-
-Examples of GANFolks from OpenSea:
-
-https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/95949048702184002022994543019454797960309252011183799747181743845102298595329 <br/>
+### Application Papers
 
 **Ca-GAN: Weakly supervised color aware gan for controllable makeup transfer**
 
@@ -75,32 +63,82 @@ Paper: https://arxiv.org/abs/2106.11423 <br/>
 Paper: https://arxiv.org/pdf/2005.05535.pdf <br/>
 Code: https://github.com/iperov/DeepFaceLab <br/>
 
+### Applications Applied
+
+<br/>
+
+**GANfolk: Using AI to Create Portraits of Fictional People to Sell as NFTs**
+| <img src='/Images/gan_folks.jpeg' style='height: 225px'>
+|:--:|
+| Example Generated GanFolk Faces |
+
+App: https://towardsdatascience.com/ganfolk-using-ai-to-create-portraits-of-fictional-people-to-sell-as-nfts-6e24f5214ed1 <br/>
+
+Examples of GANFolks from OpenSea:
+
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/95949048702184002022994543019454797960309252011183799747181743845102298595329 <br/>
+
+### Virtual Makeup and Accessories Try-on
+
+| <img src='/Images/ffhqtarget.png' style='height: 250px'>
+|:--:|
+| Target Image |
+
+#### Web Applications
+
+| <img src='/Images/loreal.png' style='height: 200px'><img src='/Images/maybelline.png' style='height: 200px'><img src='/Images/nyx.png' style='height: 200px'> <img src='/Images/eyebuydirect.png' style='height: 200px; width: 200px'>
+|:--:|
+| Inference results from Loreal, Maybelline, Nyx and EyebuyDirect Website in Order |
+
 **Loreal Virtual Makeup Try-on**
 
 App: https://www.lorealparisusa.com/virtual-try-on-makeup <br/>
 
 **Maybelline Virtual Makeup Try-on**
-| <img src='/Images/ffhqtarget.png' style='height: 250px'><img src='/Images/maybelline.png' style='height: 250px'>
-|:--:|
-| Inference results from Maybelline Website |
 
 App: https://www.maybelline.com/virtual-try-on-makeup-tools <br/>
 
 **NyxCosmetics Virtual Makeup Try-on**
 
-| <img src='/Images/ffhqtarget.png' style='height: 250px'><img src='/Images/nyx.png' style='height: 250px'>
-|:--:|
-| Inference results from Nyx Website |
-
 App: https://www.nyxcosmetics.com/try-it-on.html <br/>
 
 **EyebuyDirect Virtual Glasses Try-on**
 
-| <img src='/Images/ffhqtarget.png' style='height: 250px'><img src='/Images/eyebuydirect.png' style='height: 250px; width: 250px'>
-|:--:|
-| Inference results from EyebuyDirect Website |
-
 App: https://www.eyebuydirect.com/virtual-try-on <br/>
+
+#### Mobile Applications
+
+| <img src='/Images/FaceApp.JPG' style='height: 200px'><img src='/Images/facelab.JPG' style='height: 200px'><img src='/Images/Facetune2.jpg' style='height: 200px'> <img src='/Images/peachy.PNG' style='height: 200px; width: 200px'><img src='/Images/youcam.JPG' style='height: 200px; width: 200px'>
+|:--:|
+| Inference results from FaceApp, FaceLab, Facetune2, Peachy and 'YouCam Makeup' iOs Apps in Order |
+
+**FaceApp**
+
+iOS App: https://apps.apple.com/us/app/faceapp-perfect-face-editor/id1180884341
+Android App: https://play.google.com/store/apps/details?id=io.faceapp&hl=tr&gl=US
+
+**FaceLab**
+
+iOS App: https://apps.apple.com/de/app/facelab-gesicht-bearbeiten/id1361012099
+Android App: https://play.google.com/store/apps/details?id=com.lyrebirdstudio.facelab&hl=tr&gl=US
+
+**Facetune2**
+
+iOS App: https://apps.apple.com/us/app/facetune2-editor-by-lightricks/id1149994032
+Android App: https://play.google.com/store/apps/details?id=com.lightricks.facetune.free&hl=tr&gl=US
+
+**Peachy**
+
+iOS App: https://apps.apple.com/us/app/peachy-gesicht-bearbeiten/id1390423469?l=de
+
+**YouCam Makeup**
+iOS App: https://apps.apple.com/de/app/youcam-makeup-selfie-editor/id863844475
+Android App: https://play.google.com/store/apps/details?id=com.cyberlink.youcammakeup&hl=tr&gl=US
+
+**Video Face Replacement**
+| <video  height="360" controls ><source src='/Images/reface.MP4'  type="video/mp4"></video>
+|:--:|
+| Inference results from Misterspex Website |
 
 **Misterspex Virtual Glasses Try-on**
 
@@ -140,37 +178,39 @@ App: https://www.myheritage.com/deep-nostalgia <br/>
 
 App: https://photomyne.com/ <br/>
 
-**GPEN Face Restoration**
+**Old Photo Restoration**
 
-| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/solvay_hq_half.png' style='height: 250px'>
+| <img src='/Images/solvay_half.png' style='height: 250px'>
 |:--:|
-| Solvay Conference Images With GPEN Inference |
+| Target Image |
+
+### Super Resolution and Deblurring
+
+##### GPEN Face Restoration
+
+| <img src='/Images/solvay_hq_half.png' style='height: 250px'><img src='/Images/vanceai_solvay_half.png' style='height: 250px'><img src='/Images/remini_solvay_half.png' style='height: 250px'>
+|:--:|
+| Solvay Conference Image Restoration Using GPEN, VanceAI and ReminiAI from left to right. |
 
 App: https://replicate.com/yangxy/gpen <br/>
 
-**ImageColorizer Image Colorizer**
-
-| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/solvay_colored_half.png' style='height: 250px'>
-|:--:|
-| Solvay Conference Image Colored|
-
-App: https://imagecolorizer.com/ <br/>
-
 **VanceAI Image Restoration**
-
-| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/vanceai_solvay_half.png' style='height: 250px'>
-|:--:|
-| Solvay Conference Image Enhanced Using VanceAI |
 
 App: https://vanceai.com/old-photo-restoration/ <br/>
 
 **ReminiAI Image Restoration**
 
-| <img src='/Images/solvay_half.png' style='height: 250px'><img src='/Images/remini_solvay_half.png' style='height: 250px'>
-|:--:|
-| Solvay Conference Image Enhanced Using ReminiAI |
-
 App: https://remini.ai/ <br/>
+
+##### Color Enhancement
+
+**ImageColorizer Image Colorizer**
+
+| <img src='/Images/solvay_colored_half.png' style='height: 250px'>
+|:--:|
+| Solvay Conference Image Colored |
+
+App: https://imagecolorizer.com/ <br/>
 
 **Nvidia Image Restoration**
 
