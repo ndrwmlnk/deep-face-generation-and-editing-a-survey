@@ -188,7 +188,7 @@ App: https://photomyne.com/ <br/>
 
 ##### GPEN Face Restoration
 
-| <img src='/Images/solvay_hq_half.png' style='height: 250px'><img src='/Images/vanceai_solvay_half.png' style='height: 250px'><img src='/Images/remini_solvay_half.png' style='height: 250px'>
+| <img src='/Images/solvay_hq_half.png' style='height: 190px'><img src='/Images/vanceai_solvay_half.png' style='height: 190px'><img src='/Images/remini_solvay_half.png' style='height: 190px'>
 |:--:|
 | Solvay Conference Image Restoration Using GPEN, VanceAI and ReminiAI from left to right. |
 
