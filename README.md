@@ -1,4 +1,4 @@
-# 📖 Deep Learning for Face Generation and Editing: A Survey
+## 📖 Deep Learning for Face Generation and Editing: A Survey
 
 [//]: # "Deep Face Generation and Control: A Survey"
 [//]: # "Deep Face Generation and Editing: A Survey"
