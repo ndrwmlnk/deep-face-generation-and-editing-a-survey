@@ -10,7 +10,7 @@
 -   [Neural Network Architectures for Generation of Faces](#neural-network-architectures-for-generation-of-faces)
 -   [Similarity of Faces and Loses For Training](#similarity-of-faces-and-loses-for-training)
 -   [The Latent Space](#the-latent-space)
--   [GAN Inversion to the Latent Space](#gan-inversion-to-the-latent-space)
+-   [Image Inversion to a Latent Space of StyleGAN](#image-inversion-to-a-latent-space-of-stylegan)
 -   [Editing of Generated Images ](#editing-of-generated-images)
 -   [Finding control parameters in the latent space - Editing approaches](#finding-control-parameters-in-the-latent-space)
 -   [Deep Fake](#deep-fake)
