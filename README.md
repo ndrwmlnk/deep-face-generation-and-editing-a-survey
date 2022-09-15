@@ -4,6 +4,7 @@
 [//]: # "Deep Face Generation and Editing: A Survey"
 [//]: # "Deep Face Synthesis and Editing: A Survey"
 
+-   [Applications Papers StyleGAN](#applications-papers-stylegan)
 -   [Applications Papers](#applications-papers)
 -   [Applications Applied](#applications-applied)
 -   [Datasets](#datasets)
@@ -18,15 +19,7 @@
 
 ---
 
-### Application Papers
-
-**Ca-GAN: Weakly supervised color aware gan for controllable makeup transfer**
-
-| <img src='/Images/cagan.png' style='height: 225px'>
-|:--:|
-| Ca-GAN Approach to Transfer Makeup styles |
-
-Paper: https://arxiv.org/abs/2008.10298 <br/>
+### Application Papers StyleGAN
 
 **Towards real-world blind face restoration with generative facial prior**
 
@@ -54,6 +47,8 @@ Project: https://mystyle-personalized-prior.github.io/ <br/>
 
 Paper: https://arxiv.org/abs/2106.11423 <br/>
 
+### Application Papers
+
 **DeepFaceLab: Integrated, flexible and extensible faceswapping framework**
 
 |<img src='/Images/deepfake.png' style='height: 225px'>
@@ -62,6 +57,14 @@ Paper: https://arxiv.org/abs/2106.11423 <br/>
 
 Paper: https://arxiv.org/pdf/2005.05535.pdf <br/>
 Code: https://github.com/iperov/DeepFaceLab <br/>
+
+**Ca-GAN: Weakly supervised color aware gan for controllable makeup transfer**
+
+| <img src='/Images/cagan.png' style='height: 225px'>
+|:--:|
+| Ca-GAN Approach to Transfer Makeup styles |
+
+Paper: https://arxiv.org/abs/2008.10298 <br/>
 
 ### Applications Applied
 
@@ -438,25 +441,25 @@ Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shap
 📄 **Designing an Encoder for StyleGAN Image Manipulation** <br />
 Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or
 <br />
-[[Paper]](https://arxiv.org/abs/2102.02766)  [[Video]](https://dl.acm.org/doi/10.1145/3450626.3459838)  [[Github]](https://github.com/omertov/encoder4editing)
+[[Paper]](https://arxiv.org/abs/2102.02766) [[Video]](https://dl.acm.org/doi/10.1145/3450626.3459838) [[Github]](https://github.com/omertov/encoder4editing)
 
 📄 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement** <br />
 Yuval Alaluf, Or Patashnik, Daniel Cohen-Or
 <br /> ICCV 2021
-[[Paper]](https://arxiv.org/abs/2104.02699)  [[Video]](https://www.youtube.com/watch?v=6pGzLECSIWM)  [[Github]](https://github.com/yuval-alaluf/restyle-encoder)
+[[Paper]](https://arxiv.org/abs/2104.02699) [[Video]](https://www.youtube.com/watch?v=6pGzLECSIWM) [[Github]](https://github.com/yuval-alaluf/restyle-encoder)
 
 📄 **Pivotal Tuning for Latent-based editing of Real Images** <br />
 Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or
-<br /> ACM TOG 2022 
+<br /> ACM TOG 2022
 [[Paper]](https://arxiv.org/abs/2106.05744) [[Github]](https://github.com/danielroich/PTI)
 
 📄 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing** <br />
 Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano
-<br /> CVPR 2022 [[Paper]](https://arxiv.org/abs/2111.15666)  [[Video]](https://www.youtube.com/watch?v=_sbXmLY2jMw)  [[Github]](https://github.com/yuval-alaluf/hyperstyle)
+<br /> CVPR 2022 [[Paper]](https://arxiv.org/abs/2111.15666) [[Video]](https://www.youtube.com/watch?v=_sbXmLY2jMw) [[Github]](https://github.com/yuval-alaluf/hyperstyle)
 
 📄 **MyStyle: A Personalized Generative Prior** <br />
 Yotam Nitzan, Kfir Aberman, Qiurui He, Orly Liba, Michal Yarom, Yossi Gandelsman, Inbar Mosseri, Yael Pritch, Daniel Cohen-or
-<br /> [[Paper]](https://arxiv.org/abs/2203.17272)  [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o)  [[Github]](https://mystyle-personalized-prior.github.io/)
+<br /> [[Paper]](https://arxiv.org/abs/2203.17272) [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o) [[Github]](https://mystyle-personalized-prior.github.io/)
 
 ---
 
