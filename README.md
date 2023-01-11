@@ -13,6 +13,9 @@ Survey link: https://arxiv.org/abs/2212.09102
 -   [2023](#2023)  
 -   [2022](#2022)  
 -   [2021](#2021)  
+-   [2020](#2020)  
+-   [2019](#2019)  
+-   [2018](#2018)  
   
 [Web Applications](#web-applications)  
   
@@ -35,31 +38,37 @@ Survey link: https://arxiv.org/abs/2212.09102
 
 ## 2022
 
-📄 **MyStyle: A Personalized Generative Prior** <br />
+📄 **MyStyle: A Personalized Generative Prior**  
 Yotam Nitzan, Kfir Aberman, Qiurui He, Orly Liba, Michal Yarom, Yossi Gandelsman, Inbar Mosseri, Yael Pritch, Daniel Cohen-or  
 [[Paper]](https://arxiv.org/abs/2203.17272) [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o) [[Github]](https://mystyle-personalized-prior.github.io/)
 
-📄 **Pivotal Tuning for Latent-based editing of Real Images** <br />
+📄 **Pivotal Tuning for Latent-based editing of Real Images**  
 Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or  
 [[Paper]](https://arxiv.org/abs/2106.05744) [[Github]](https://github.com/danielroich/PTI) ACM TOG 2022  
 
-📄 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing** <br />
+📄 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing**  
 Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano  
 [[Paper]](https://arxiv.org/abs/2111.15666) [[Video]](https://www.youtube.com/watch?v=_sbXmLY2jMw) [[Github]](https://github.com/yuval-alaluf/hyperstyle) CVPR 2022  
 
 ## 2021
 
-📄 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation** <br />
+📄 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**  
 Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or
 <br /> CVPR 2021 [[Paper]](https://arxiv.org/abs/2008.00951) [[Video]](https://www.youtube.com/watch?v=bfvSwhqsTgM) [[GitHub]](https://github.com/eladrich/pixel2style2pixel)
 
-📄 **Designing an Encoder for StyleGAN Image Manipulation** <br />
+📄 **Designing an Encoder for StyleGAN Image Manipulation**  
 Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or  
 [[Paper]](https://arxiv.org/abs/2102.02766) [[Video]](https://dl.acm.org/doi/10.1145/3450626.3459838) [[Github]](https://github.com/omertov/encoder4editing)
 
-📄 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement** <br />
+📄 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement**  
 Yuval Alaluf, Or Patashnik, Daniel Cohen-Or  
 [[Paper]](https://arxiv.org/abs/2104.02699) [[Video]](https://www.youtube.com/watch?v=6pGzLECSIWM) [[Github]](https://github.com/yuval-alaluf/restyle-encoder) ICCV 2021  
+
+## 2020
+
+## 2019
+
+## 2018
 
 ---
 
