@@ -1,8 +1,4 @@
-## 📖 Deep Learning for Face Generation and Editing: A Survey
-
-[//]: # "Deep Face Generation and Control: A Survey"
-[//]: # "Deep Face Generation and Editing: A Survey"
-[//]: # "Deep Face Synthesis and Editing: A Survey"
+## 📖 Face Generation and Editing with StyleGAN: A Survey  
 
 -   [Applications Papers StyleGAN](#applications-papers-stylegan)
 -   [Applications Papers](#applications-papers)
