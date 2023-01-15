@@ -1,5 +1,7 @@
-## 📖 Face Generation and Editing with StyleGAN: A Survey  
-Survey link: https://arxiv.org/abs/2212.09102  
+## 📖 Face Generation and Editing with StyleGAN: A Survey
+
+Survey link: https://arxiv.org/abs/2212.09102
+
 ```
 @article{melnik2022face,
   title={Face Generation and Editing with StyleGAN: A Survey},
@@ -8,18 +10,26 @@ Survey link: https://arxiv.org/abs/2212.09102
   year={2022}
 }
 ```
+
 ---
-[Papers](#papers)  
--   [2023](#2023)  
--   [2022](#2022)  
--   [2021](#2021)  
--   [2020](#2020)  
--   [2019](#2019)  
--   [2018](#2018)  
-  
-[Web Applications](#web-applications)  
-  
-[Datasets](#datasets)  
+
+[Papers](#papers)
+
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
+- [2016](#2016)
+- [2015](#2015)
+- [2014](#2014)
+- [2012](#2012)
+
+[Web Applications](#web-applications)
+
+[Datasets](#datasets)
 
 <!-- -   [Neural Network Architectures for Generation of Faces](#neural-network-architectures-for-generation-of-faces)
 -   [Similarity of Faces and Loses For Training](#similarity-of-faces-and-loses-for-training)
@@ -30,6 +40,7 @@ Survey link: https://arxiv.org/abs/2212.09102
 -   [Deep Fake](#deep-fake)
 -   [Deblurring](#deblurring)
  -->
+
 ---
 
 ### Papers
@@ -44,11 +55,60 @@ Yotam Nitzan, Kfir Aberman, Qiurui He, Orly Liba, Michal Yarom, Yossi Gandelsman
 
 📄 **Pivotal Tuning for Latent-based editing of Real Images**  
 Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or  
-[[Paper]](https://arxiv.org/abs/2106.05744) [[Github]](https://github.com/danielroich/PTI) ACM TOG 2022  
+[[Paper]](https://arxiv.org/abs/2106.05744) [[Github]](https://github.com/danielroich/PTI) ACM TOG 2022
 
 📄 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing**  
 Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano  
-[[Paper]](https://arxiv.org/abs/2111.15666) [[Video]](https://www.youtube.com/watch?v=_sbXmLY2jMw) [[Github]](https://github.com/yuval-alaluf/hyperstyle) CVPR 2022  
+[[Paper]](https://arxiv.org/abs/2111.15666) [[Video]](https://www.youtube.com/watch?v=_sbXmLY2jMw) [[Github]](https://github.com/yuval-alaluf/hyperstyle) CVPR 2022
+
+📄 **One Shot Face Swapping on Megapixels**  
+Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun
+[[Paper]](https://arxiv.org/abs/2105.04932) [[Github]](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels) CVPR 2022
+
+📄 **Faces: AI Blitz XIII Solutions**  
+Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze
+[[Paper]](https://arxiv.org/abs/2204.01081) [[Github]](https://github.com/ndrwmlnk/ai-blitz-xiii) arXiv 2022
+
+📄 **Third Time's the Charm? Image and Video Editing with StyleGAN3**  
+Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or
+[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/yuval-alaluf/stylegan3-editing) arXiv 2022
+
+📄 **3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image**  
+Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao
+[[Paper]](https://arxiv.org/abs/2207.14425) arXiv 2022
+
+📄 **Fine-Tuning StyleGAN2 For Cartoon Face Generation**  
+Jihye Back
+[[Paper]](https://arxiv.org/abs/2106.12445) arXiv 2022
+
+📄 **Deep Learning for Deepfakes Creation and Detection: A Survey**  
+Thanh Thi Nguyen, Quoc Viet Hung Nguyen, Dung Tien Nguyen, Duc Thanh Nguyen, Thien Huynh-The, Saeid Nahavandi, Thanh Tam Nguyen, Quoc-Viet Pham, Cuong M. Nguyen
+[[Paper]](https://arxiv.org/abs/1909.11573) Computer Vision and Image Understanding, 2022
+
+📄 **State-of-the-Art in the Architecture, Methods and Applications of StyleGAN**  
+Amit H. Bermano, Rinon Gal, Yuval Alaluf, Ron Mokady, Yotam Nitzan, Omer Tov, Or Patashnik, Daniel Cohen-Or
+[[Paper]](https://arxiv.org/abs/2202.14020) Wiley Online Library, 2022
+
+📄 **Pivotal Tuning for Latent-based Editing of Real Images**  
+Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or
+[[Paper]](https://arxiv.org/abs/2106.05744) [[Github]](https://github.com/danielroich/PTI) ACM 2022
+
+📄 **E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion**  
+Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu
+[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/wty-ustc/e2style) IEEE Transactions on Image Processing, 2022
+
+📄 **Unsupervised face frontalization using disentangled representation-learning CycleGAN**  
+Yanfei Liu Junhua Chen
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001096)Computer Vision
+and Image Understanding, 2022
+
+📄 **YOLO -- You only look 10647 times**  
+Christian Limberg, Andrew Melnik, Augustin Harter, Helge Ritter
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001096) arXiv 2022
+
+📄 **Transforming the Latent Space of StyleGAN for Real Face Editing**  
+Heyi Li, Jinlong Liu, Xinyu Zhang, Yunzhi Bai, Huayan Wang, Klaus Mueller
+[[Paper]](https://arxiv.org/abs/2105.14230) [[Github]](https://github.com/AnonSubm2021/TransStyleGAN) arXiv, 2022
 
 ## 2021
 
@@ -62,13 +122,283 @@ Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or
 
 📄 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement**  
 Yuval Alaluf, Or Patashnik, Daniel Cohen-Or  
-[[Paper]](https://arxiv.org/abs/2104.02699) [[Video]](https://www.youtube.com/watch?v=6pGzLECSIWM) [[Github]](https://github.com/yuval-alaluf/restyle-encoder) ICCV 2021  
+[[Paper]](https://arxiv.org/abs/2104.02699) [[Video]](https://www.youtube.com/watch?v=6pGzLECSIWM) [[Github]](https://github.com/yuval-alaluf/restyle-encoder) ICCV 2021
+
+📄 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**  
+Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski[[Paper]](https://arxiv.org/abs/2103.17249) [[Video]](https://www.youtube.com/watch?v=5icI0NgALnQ) [[Github]](https://github.com/orpatashnik/StyleCLIP) IEEE/CVF 2021
+
+📄 **Towards Real-World Blind Face Restoration with Generative Facial Prior**  
+Xintao Wang, Yu Li, Honglun Zhang, Ying Shan
+[[Paper]](https://arxiv.org/abs/2101.04061) [[Github]](https://github.com/TencentARC/GFPGAN) IEEE/CVF 2021
+
+📄 **StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators**  
+Rinon Gal, Or Patashnik, Haggai Maron, Gal Chechik, Daniel Cohen-Or
+[[Paper]](https://arxiv.org/abs/2108.00946) [[Github]](https://github.com/rinongal/StyleGAN-nada) CoRR 2021
+
+📄 **Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement**  
+Huiwen Luo, Koki Nagano, Han-Wei Kung, Mclean Goldwhite, Qingguo Xu, Zejian Wang, Lingyu Wei, Liwen Hu, Hao Li
+[[Paper]](https://arxiv.org/abs/2106.11423) [[Video]](https://www.youtube.com/watch?v=V9r_jOiGX84) IEEE/CVF 2021
+
+📄 **Alias-Free Generative Adversarial Networks**  
+Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila
+[[Paper]](https://arxiv.org/abs/2106.12423) [[Video]](https://nvlabs-fi-cdn.nvidia.com/stylegan3/videos/) [[Github]](https://github.com/NVlabs/stylegan3) Advances in Neural Information Processing Systems, vol. 34, 2021
+
+📄 **Learning Transferable Visual Models From Natural Language Supervision**  
+Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
+[[Paper]](https://arxiv.org/abs/2103.00020) [[Github]](https://github.com/openai/CLIP) PMLR, 2021
+
+📄 **StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation**  
+Wonjong Jang, Gwangjin Ju, Yucheol Jung, Jiaolong Yang, Xin Tong, Seungyong Lee
+[[Paper]](https://arxiv.org/abs/2107.04331) [[Video]](https://www.youtube.com/watch?v=kpHbGOlI-BU&feature=youtu.be) [[Github]](https://github.com/wonjongg/StyleCariGAN) ACM
+Transactions on Graphics (TOG), 2021
+
+📄 **The Creation and Detection of Deepfakes: A Survey**  
+Yisroel Mirsky, Wenke Lee
+[[Paper]](https://arxiv.org/abs/2004.11138) CSUR 2021
+
+📄 **Positional Encoding as Spatial Inductive Bias in GANs**  
+Rui Xu, Xintao Wang, Kai Chen, Bolei Zhou, Chen Change Loy
+[[Paper]](https://arxiv.org/abs/2012.05217) IEEE/CVF 2021
+
+📄 **StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation**  
+Zongze Wu, Dani Lischinski, Eli Shechtman
+[[Paper]](https://arxiv.org/abs/2011.12799) [[Video]](https://www.youtube.com/watch?v=U7qRotRGr1w&feature=youtu.be) [[Github]](https://github.com/betterze/StyleSpace) CVPR, 2021
+
+📄 **Encoding in style: a styleganencoder for image-to-image translation**  
+Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or
+[[Paper]](https://arxiv.org/abs/2008.00951) [[Video]](https://www.youtube.com/watch?v=bfvSwhqsTgM) [[Github]](https://github.com/eladrich/pixel2style2pixel) IEEE/CVF, 2021
+
+📄 **Designing an Encoder for StyleGAN Image Manipulation**  
+Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or
+[[Paper]](https://arxiv.org/abs/2102.02766) [[Github]](https://github.com/omertov/encoder4editing) ACM, 2021
+
+📄 **BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation**  
+Mingcong Liu, Qiang Li, Zekui Qin, Guoxin Zhang, Pengfei Wan, Wen Zheng
+[[Paper]](https://arxiv.org/abs/2110.11728) [[Github]](https://github.com/onion-liu/BlendGAN) Advances in Neural Information Processing Systems, 2021
 
 ## 2020
 
+📄 **Analyzing and Improving the Image Quality of StyleGAN**  
+Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila
+[[Paper]](https://arxiv.org/abs/1912.04958) [[Video]](https://www.youtube.com/watch?v=c-NJtV9Jvp0) [[Github]](https://github.com/NVlabs/stylegan2) IEEE/CVF 2020
+
+📄 **Training Generative Adversarial Networks with Limited Data**  
+Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila
+[[Paper]](https://arxiv.org/abs/2006.06676) [[Github]](https://github.com/NVlabs/stylegan2-ada)
+
+📄 **Image2StyleGAN++: How to Edit the Embedded Images?**  
+Rameen Abdal, Yipeng Qin, Peter Wonka
+[[Paper]](https://arxiv.org/abs/1911.11544) [[Video]](https://www.youtube.com/watch?v=kEKVSMTTQEI) IEEE/CVF 2020
+
+📄 **StyleRig: Rigging StyleGAN for 3D Control over Portrait Images**  
+Ayush Tewari, Mohamed Elgharib, Gaurav Bharaj, Florian Bernard, Hans-Peter Seidel, Patrick Pérez, Michael Zollhöfer, Christian Theobalt
+[[Paper]](https://arxiv.org/abs/2004.00121) IEEE/CVF 2020
+
+📄 **Media Forensics and DeepFakes: an overview**  
+Luisa Verdoliva
+[[Paper]](https://arxiv.org/abs/2001.06564) IEEE
+Journal of Selected Topics in Signal Processing 2020
+
+📄 **Neural Head Reenactment with Latent Pose Descriptors**  
+Egor Burkov, Igor Pasechnik, Artur Grigorev, Victor Lempitsky
+[[Paper]](https://arxiv.org/abs/2004.12000) [[Github]](https://github.com/shrubb/latent-pose-reenactment) CVPR 2020
+
+📄 **GAN Compression: Efficient Architectures for Interactive Conditional GANs**  
+Muyang Li, Ji Lin, Yaoyao Ding, Zhijian Liu, Jun-Yan Zhu, Song Han
+[[Paper]](https://arxiv.org/abs/2003.08936) [[Video]](https://www.youtube.com/playlist?list=PL80kAHvQbh-r5R8UmXhQK1ndqRvPNw_ex) [[Github]](https://github.com/mit-han-lab/gan-compression) CVPR 2020
+
+📄 **StyleGAN2 Distillation for Feed-forward Image Manipulation**  
+Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin
+[[Paper]](https://arxiv.org/abs/2003.03581) [[Github]](https://github.com/EvgenyKashin/stylegan2-distillation) Springer 2020
+
+📄 **Collaborative Learning for Faster StyleGAN Embedding**  
+Shanyan Guan, Ying Tai, Bingbing Ni, Feida Zhu, Feiyue Huang, Xiaokang Yang
+[[Paper]](https://arxiv.org/abs/2007.01758) [[Github]](https://github.com/EvgenyKashin/stylegan2-distillation) ArXiv 2020
+
+📄 **In-Domain GAN Inversion for Real Image Editing**  
+Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou
+[[Paper]](https://arxiv.org/abs/2004.00049) [[Github]](https://github.com/EvgenyKashin/stylegan2-distillation)
+
+📄 **Interpreting the Latent Space of GANs for Semantic Face Editing**  
+Yujun Shen, Jinjin Gu, Xiaoou Tang, Bolei Zhou
+[[Paper]](https://arxiv.org/abs/1907.10786) CVPR, 2020
+
+📄 **GANSpace: Discovering Interpretable GAN Controls**  
+Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris
+[[Paper]](https://arxiv.org/abs/2004.02546) [[Github]](https://github.com/harskish/ganspace) Advances in Neural Information Processing Systems, 2020
+
+📄 **Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains**  
+Justin N. M. Pinkney, Doron Adler
+[[Paper]](https://arxiv.org/abs/2010.05334) arXiv 2020
+
+📄 **Advancing High Fidelity Identity Swapping for Forgery Detection**  
+Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen
+[[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Advancing_High_Fidelity_Identity_Swapping_for_Forgery_Detection_CVPR_2020_paper.html) CVPR, 2020
+
 ## 2019
 
+📄 **A Style-Based Generator Architecture for Generative Adversarial Networks**  
+Tero Karras, Samuli Laine, Timo Aila
+[[Paper]](https://arxiv.org/abs/1812.04948) [[Video]](https://youtu.be/kSLJriaOumA) [[Github]](https://github.com/NVlabs/stylegan) IEEE/CVF 2019
+
+📄 **Unconstrained Facial Expression Transfer using Style-based Generator**  
+Chao Yang, Ser-Nam Lim
+[[Paper]](https://arxiv.org/abs/1912.06253) ArXiv 2019
+
+📄 **ArcFace: Additive Angular Margin Loss for Deep Face Recognition**  
+Jiankang Deng, Jia Guo, Jing Yang, Niannan Xue, Irene Kotsia, Stefanos Zafeiriou
+[[Paper]](https://arxiv.org/abs/1801.07698) [[Github]](https://github.com/deepinsight/insightface) IEEE/CVF, 2019
+
+📄 **Talking Face Generation by Conditional Recurrent Adversarial Network**  
+Yang Song, Jingwen Zhu, Dawei Li, Xiaolong Wang, Hairong Qi
+[[Paper]](https://arxiv.org/abs/1804.04786) [[Github]](https://github.com/susanqq/Talking_Face_Generation)
+
+📄 **Mining Audio, Text and Visual Information for Talking Face Generation**  
+L. Yu, J. Yu, and Q. Ling,
+[[Paper]](https://ieeexplore.ieee.org/document/8970886) ICDM 2019
+
+📄 **Representation Learning by Rotating Your Faces**  
+Luan Tran, Xi Yin, Xiaoming Liu
+[[Paper]](https://arxiv.org/abs/1705.11136) IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.
+
+📄 **FReeNet: Multi-Identity Face Reenactment**  
+Jiangning Zhang, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, Changjie Fan
+[[Paper]](https://arxiv.org/abs/1905.11805) arXiv, 2019.
+
 ## 2018
+
+📄 **Unsupervised Depth Estimation, 3D Face Rotation and Replacement**  
+Tero Karras, Samuli Laine, Timo Aila
+[[Paper]](https://arxiv.org/abs/1803.09202) [[Github]](https://github.com/joelmoniz/DepthNets) Advances in neural information processing systems, 2018
+
+📄 **Progressive Growing of GANs for Improved Quality, Stability, and Variation**  
+Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen
+[[Paper]](https://arxiv.org/abs/1710.10196) [[Github]](https://github.com/tkarras/progressive_growing_of_gans) International Conference on Learning Representations, 2018
+
+📄 **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**  
+Richard Zhang, Phillip Isola, Alexei A. Efros, Eli Shechtman, Oliver Wang
+[[Paper]](https://arxiv.org/abs/1801.03924) [[Github]](https://github.com/richzhang/PerceptualSimilarity) CVPR, 2018
+
+📄 **The Perception-Distortion Tradeoff**  
+Yochai Blau, Tomer Michaeli
+[[Paper]](https://arxiv.org/abs/1711.06077) Proceedings of the IEEE conference on computer vision and pattern
+recognition, 2018
+
+📄 **MoCoGAN: Decomposing Motion and Content for Video Generation**  
+Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz
+[[Paper]](https://arxiv.org/abs/1707.04993) [[Github]](https://github.com/sergeytulyakov/mocogan) IEEE/CVF, 2018
+
+📄 **Photorealistic Monocular Gaze Redirection Using Machine Learning**  
+D. Kononenko, Y. Ganin, D. Sungatullina, and V. Lempitsky
+[[Paper]](https://ieeexplore.ieee.org/document/8010348) arXiv, 2018
+
+📄 **End-to-End Speech-Driven Facial Animation with Temporal GANs**  
+Konstantinos Vougioukas, Stavros Petridis, Maja Pantic
+[[Paper]](https://arxiv.org/abs/1805.09313) BMVC, 2018
+
+📄 **Video-to-Video Synthesis**  
+Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro
+[[Paper]](https://arxiv.org/abs/1808.06601) [[Video]](https://www.youtube.com/watch?v=GrP_aOSXt5U) [[Github]](https://github.com/NVIDIA/vid2vid) NeurIPS, 2018
+
+## 2017
+
+📄 **Systems, Subjects, Sessions: To What Extent Do These Factors Influence EEG Data?**  
+A. Melnik, P. Legkov, K. Izdebski, S. M. Karcher, W. D. Hairston,
+D. P. Ferris, and P. Konig
+[[Paper]](https://www.semanticscholar.org/paper/Systems%2C-Subjects%2C-Sessions%3A-To-What-Extent-Do-EEG-Melnik-Legkov/bfba689baf54911b02bfa2f8a9ce0acb8e253e46) Frontiers in human
+neuroscience, vol. 11, p. 150, 2017
+
+📄 **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**  
+Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam
+[[Paper]](https://arxiv.org/abs/1704.04861) [[Github]](https://github.com/tensorflow/tensorflow/blob/v2.4.1/tensorflow/python/keras/applications/mobilenet.py) arXiv, 2017
+
+📄 **Wasserstein GAN**  
+Martin Arjovsky, Soumith Chintala, Léon Bottou
+[[Paper]](https://arxiv.org/abs/1701.07875) PLMR, 2017
+
+📄 **Geometric GAN**  
+Jae Hyun Lim, Jong Chul Ye
+[[Paper]](https://arxiv.org/abs/1705.02894) arXiv, 2017
+
+📄 **On Convergence and Stability of GANs**  
+Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira
+[[Paper]](https://arxiv.org/abs/1705.07215) [[Github]](https://github.com/kodalinaveen3/DRAGAN) arXiv, 2017
+
+📄 **Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**  
+Xun Huang, Serge Belongie
+[[Paper]](https://arxiv.org/abs/1703.06868) [[Github]](https://github.com/xunhuang1995/AdaIN-style) ICCV, 2017
+
+📄 **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**  
+Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter
+[[Paper]](https://arxiv.org/abs/1706.08500) [[Github]](https://github.com/bioinf-jku/TTUR) Advances in neural information processing
+systems, vol. 30, 2017
+
+📄 **Precise Recovery of Latent Vectors from Generative Adversarial Networks**  
+Zachary C. Lipton, Subarna Tripathi
+[[Paper]](https://arxiv.org/abs/1702.04782) arXiv ,2017
+
+📄 **Adversarial Feature Learning**  
+Jeff Donahue, Philipp Krähenbühl, Trevor Darrell
+[[Paper]](https://arxiv.org/abs/1605.09782) arXiv ,2017
+
+📄 **Automated face swapping and its detection**  
+Y. Zhang, L. Zheng, and V. L. L. Thing
+[[Paper]](https://arxiv.org/pdf/2212.09102.pdf) ICSIP ,2017
+
+📄 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**  
+Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
+[[Paper]](https://arxiv.org/abs/1703.10593) [[Github]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) CoRR, 2017
+
+## 2016
+
+📄 **Rethinking the Inception Architecture for Computer Vision**  
+Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna
+[[Paper]](https://arxiv.org/abs/1512.00567) ,in
+Proceedings of the IEEE conference on computer vision and pattern
+recognition, 2016
+
+📄 **Perceptual Losses for Real-Time Style Transfer and Super-Resolution**  
+Justin Johnson, Alexandre Alahi, Li Fei-Fei
+[[Paper]](https://arxiv.org/abs/1603.08155) Springer, 2016
+
+📄 **Face2Face: Real-time Face Capture and Reenactment of RGB Videos**  
+Justus Thies, Michael Zollhöfer, Marc Stamminger, Christian Theobalt, Matthias Nießner
+[[Paper]](https://arxiv.org/abs/2007.14808)IEEE conference on computer
+vision and pattern recognition, 2016
+
+## 2015
+
+📄 **Deep Learning Face Attributes in the Wild**  
+Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang
+[[Paper]](https://arxiv.org/abs/1411.7766) Proceedings of the IEEE international conference on
+computer vision, 2015
+
+📄 **Rethinking the Inception Architecture for Computer Vision**  
+Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna
+[[Paper]](https://arxiv.org/abs/1512.00567) ,in
+Proceedings of the IEEE conference on computer vision and pattern
+recognition, 2016
+
+## 2014
+
+📄 **Generative Adversarial Networks**  
+Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
+[[Paper]](https://arxiv.org/abs/1406.2661) [[Github]](https://github.com/goodfeli/adversarial)
+
+📄 **Very Deep Convolutional Networks for Large-Scale Image Recognition**  
+Karen Simonyan, Andrew Zisserman
+[[Paper]](https://arxiv.org/abs/1409.1556) ,2015
+
+## 2012
+
+📄 **Electrical stimulation of human fusiform face-selective regions distorts face perception**  
+J. Parvizi, C. Jacques, B. L. Foster, N. Withoft, V. Rangarajan, K. S.
+Weiner, and K. Grill-Spector
+[[Paper]](https://www.jneurosci.org/content/32/43/14915) Journal of Neuroscience, vol. 32, 2012
+
+📄 **ImageNet Classification with Deep Convolutional Neural Networks**  
+Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
+[[Paper]](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) NIPS, 2012
 
 ---
 
@@ -192,6 +522,7 @@ Android App: https://play.google.com/store/apps/details?id=com.cyberlink.youcamm
 |:--:|
 | Inference results from Reface App |
  -->
+
 **Misterspex Virtual Glasses Try-on**
 
 | <img src='/Images/glasses_spex.png' style='height: 300px'><img src='/Images/glasses_spex2.png' style='height: 300px'>
