@@ -109,11 +109,11 @@ Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang H
 Yanfei Liu Junhua Chen
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001096)Computer Vision
 and Image Understanding, 2022
-
+<!-- 
 📄 **YOLO -- You only look 10647 times**  
 Christian Limberg, Andrew Melnik, Augustin Harter, Helge Ritter
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001096) arXiv 2022
-
+ -->
 📄 **Transforming the Latent Space of StyleGAN for Real Face Editing**  
 Heyi Li, Jinlong Liu, Xinyu Zhang, Yunzhi Bai, Huayan Wang, Klaus Mueller
 [[Paper]](https://arxiv.org/abs/2105.14230) [[Github]](https://github.com/AnonSubm2021/TransStyleGAN) arXiv, 2022
@@ -309,7 +309,7 @@ Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bry
 [[Paper]](https://arxiv.org/abs/1808.06601) [[Video]](https://www.youtube.com/watch?v=GrP_aOSXt5U) [[Github]](https://github.com/NVIDIA/vid2vid) NeurIPS, 2018
 
 ## 2017
-
+<!-- 
 📄 **Systems, Subjects, Sessions: To What Extent Do These Factors Influence EEG Data?**  
 A. Melnik, P. Legkov, K. Izdebski, S. M. Karcher, W. D. Hairston,
 D. P. Ferris, and P. Konig
@@ -327,7 +327,7 @@ Martin Arjovsky, Soumith Chintala, Léon Bottou
 📄 **Geometric GAN**  
 Jae Hyun Lim, Jong Chul Ye
 [[Paper]](https://arxiv.org/abs/1705.02894) arXiv, 2017
-
+ -->
 📄 **On Convergence and Stability of GANs**  
 Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira
 [[Paper]](https://arxiv.org/abs/1705.07215) [[Github]](https://github.com/kodalinaveen3/DRAGAN) arXiv, 2017
