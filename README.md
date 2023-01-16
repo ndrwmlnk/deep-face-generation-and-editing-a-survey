@@ -23,10 +23,10 @@ Survey link: https://arxiv.org/abs/2212.09102
 - [2018](#2018)
 - [2017](#2017)
 - [2016](#2016)
-- [2015](#2015)
+<!-- - [2015](#2015)
 - [2014](#2014)
 - [2012](#2012)
-
+ -->
 [Web Applications](#web-applications)
 
 [Datasets](#datasets)
@@ -50,6 +50,10 @@ Survey link: https://arxiv.org/abs/2212.09102
 📄 **LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis**  
 Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen  
 [[Paper]](https://arxiv.org/abs/2301.04604) [[Github]](https://github.com/zhujiapeng/linkgan) [[Project]](https://zhujiapeng.github.io/linkgan/)
+
+📄 **SLI-pSp: Injecting Multi-Scale Spatial Layout in pSp**  
+Aradhya Neeraj Mathur, Anish Madan, Ojaswa Sharma  
+[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV 2023
 
 ## 2022
 
@@ -369,7 +373,7 @@ Justin Johnson, Alexandre Alahi, Li Fei-Fei
 Justus Thies, Michael Zollhöfer, Marc Stamminger, Christian Theobalt, Matthias Nießner
 [[Paper]](https://arxiv.org/abs/2007.14808)IEEE conference on computer
 vision and pattern recognition, 2016
-
+<!-- 
 ## 2015
 
 📄 **Deep Learning Face Attributes in the Wild**  
@@ -403,7 +407,7 @@ Weiner, and K. Grill-Spector
 📄 **ImageNet Classification with Deep Convolutional Neural Networks**  
 Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 [[Paper]](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) NIPS, 2012
-
+ -->
 ---
 
 <!-- ### Application Papers StyleGAN
