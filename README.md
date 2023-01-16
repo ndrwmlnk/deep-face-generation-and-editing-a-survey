@@ -47,6 +47,10 @@ Survey link: https://arxiv.org/abs/2212.09102
 
 ## 2023
 
+📄 **LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis**  
+Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen  
+[[Paper]](https://arxiv.org/abs/2301.04604) [[Github]](https://github.com/zhujiapeng/linkgan) [[Project]](https://zhujiapeng.github.io/linkgan/)
+
 ## 2022
 
 📄 **MyStyle: A Personalized Generative Prior**  
