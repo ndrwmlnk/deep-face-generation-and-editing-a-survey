@@ -760,6 +760,7 @@ Data/Description : https://paperswithcode.com/dataset/vggface2-hq
 
 Data/Description : https://paperswithcode.com/dataset/artbench-10
 
+<!-- 
 ---
 
 ### Neural Network Architectures for Generation of Faces
@@ -892,3 +893,4 @@ Code: https://github.com/VITA-Group/DeblurGANv2 <br/>
 
 Paper: https://arxiv.org/abs/1809.00219 <br/>
 Code: https://github.com/xinntao/ESRGAN <br/>
+ -->
