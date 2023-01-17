@@ -48,12 +48,12 @@ Survey link: https://arxiv.org/abs/2212.09102
 ## 2023
 
 📄 **LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis**  
-Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen  
-[[Paper]](https://arxiv.org/abs/2301.04604) [[Github]](https://github.com/zhujiapeng/linkgan) [[Project]](https://zhujiapeng.github.io/linkgan/)
+[[Paper]](https://arxiv.org/abs/2301.04604) [[Github]](https://github.com/zhujiapeng/linkgan) [[Project]](https://zhujiapeng.github.io/linkgan/)  
+<sub><sup>*Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen*</sup></sub>  
 
 📄 **SLI-pSp: Injecting Multi-Scale Spatial Layout in pSp**  
-Aradhya Neeraj Mathur, Anish Madan, Ojaswa Sharma  
-[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV 2023
+[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV 2023  
+<sub><sup>*Aradhya Neeraj Mathur, Anish Madan, Ojaswa Sharma*</sup></sub>    
 
 ## 2022
 
