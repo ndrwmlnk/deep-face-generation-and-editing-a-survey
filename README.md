@@ -59,36 +59,36 @@ Survey link: https://arxiv.org/abs/2212.09102
 
 📄 **Face Generation and Editing with StyleGAN: A Survey**  
 [[Paper]](https://arxiv.org/abs/2212.09102) arXiv  
-Andrew Melnik, Maksim Miasayedzenkau, Dzianis Makarovets, Dzianis Pirshtuk, Eren Akbulut, Dennis Holzmann, Tarek Renusch, Gustav Reichert, Helge Ritter  
+<sub><sup>*Andrew Melnik, Maksim Miasayedzenkau, Dzianis Makarovets, Dzianis Pirshtuk, Eren Akbulut, Dennis Holzmann, Tarek Renusch, Gustav Reichert, Helge Ritter*</sup></sub>    
 
 📄 **3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image**  
 [[Paper]](https://arxiv.org/abs/2207.14425) arXiv  
-Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao  
+<sub><sup>*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao*</sup></sub>    
 
 📄 **Faces: AI Blitz XIII Solutions**  
 [[Paper]](https://arxiv.org/abs/2204.01081) [[Github]](https://github.com/ndrwmlnk/ai-blitz-xiii) arXiv  
-Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze  
+<sub><sup>*Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze*</sup></sub>    
 
 📄 **MyStyle: A Personalized Generative Prior**  
-[[Paper]](https://arxiv.org/abs/2203.17272) [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o) [[Github]](https://mystyle-personalized-prior.github.io/)  
-Yotam Nitzan, Kfir Aberman, Qiurui He, Orly Liba, Michal Yarom, Yossi Gandelsman, Inbar Mosseri, Yael Pritch, Daniel Cohen-or  
+[[Paper]](https://arxiv.org/abs/2203.17272) [[Github]](https://mystyle-personalized-prior.github.io/) [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o)  
+<sub><sup>*Yotam Nitzan, Kfir Aberman, Qiurui He, Orly Liba, Michal Yarom, Yossi Gandelsman, Inbar Mosseri, Yael Pritch, Daniel Cohen-or*</sup></sub>    
 
 📄 **Third Time's the Charm? Image and Video Editing with StyleGAN3**  
-[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/yuval-alaluf/stylegan3-editing) arXiv
-Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or
-
+[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/yuval-alaluf/stylegan3-editing) arXiv  
+<sub><sup>*Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or*</sup></sub>    
+<!--
 📄 **State-of-the-Art in the Architecture, Methods and Applications of StyleGAN**  
 [[Paper]](https://arxiv.org/abs/2202.14020) Wiley Online Library  
-Amit H. Bermano, Rinon Gal, Yuval Alaluf, Ron Mokady, Yotam Nitzan, Omer Tov, Or Patashnik, Daniel Cohen-Or  
-
+<sub><sup>*Amit H. Bermano, Rinon Gal, Yuval Alaluf, Ron Mokady, Yotam Nitzan, Omer Tov, Or Patashnik, Daniel Cohen-Or*</sup></sub>    
+-->
 📄 **E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion**  
 [[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/wty-ustc/e2style) IEEE Transactions on Image Processing  
-Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu  
+<sub><sup>*Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu*</sup></sub>    
 
 📄 **Unsupervised face frontalization using disentangled representation-learning CycleGAN**  
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001096) Computer Vision
 and Image Understanding  
-Yanfei Liu Junhua Chen  
+<sub><sup>*Yanfei Liu Junhua Chen*</sup></sub>    
 
 <!-- 
 📄 **YOLO -- You only look 10647 times**  
