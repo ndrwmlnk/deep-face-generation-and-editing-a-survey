@@ -52,43 +52,44 @@ Survey link: https://arxiv.org/abs/2212.09102
 <sub><sup>*Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen*</sup></sub>  
 
 📄 **SLI-pSp: Injecting Multi-Scale Spatial Layout in pSp**  
-[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV 2023  
-<sub><sup>*Aradhya Neeraj Mathur, Anish Madan, Ojaswa Sharma*</sup></sub>    
+[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV  
+<sub><sup>*Aradhya Neeraj Mathur, Anish Madan, Ojaswa Sharma*</sup></sub>  
 
 ## 2022
 
+📄 **Face Generation and Editing with StyleGAN: A Survey**  
+[[Paper]](https://arxiv.org/abs/2212.09102) arXiv  
+Andrew Melnik, Maksim Miasayedzenkau, Dzianis Makarovets, Dzianis Pirshtuk, Eren Akbulut, Dennis Holzmann, Tarek Renusch, Gustav Reichert, Helge Ritter  
+
 📄 **3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image**  
-Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao
-[[Paper]](https://arxiv.org/abs/2207.14425) arXiv 2022
+[[Paper]](https://arxiv.org/abs/2207.14425) arXiv  
+Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao  
 
 📄 **Faces: AI Blitz XIII Solutions**  
-Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze
-[[Paper]](https://arxiv.org/abs/2204.01081) [[Github]](https://github.com/ndrwmlnk/ai-blitz-xiii) arXiv 2022
+[[Paper]](https://arxiv.org/abs/2204.01081) [[Github]](https://github.com/ndrwmlnk/ai-blitz-xiii) arXiv  
+Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze  
 
 📄 **MyStyle: A Personalized Generative Prior**  
+[[Paper]](https://arxiv.org/abs/2203.17272) [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o) [[Github]](https://mystyle-personalized-prior.github.io/)  
 Yotam Nitzan, Kfir Aberman, Qiurui He, Orly Liba, Michal Yarom, Yossi Gandelsman, Inbar Mosseri, Yael Pritch, Daniel Cohen-or  
-[[Paper]](https://arxiv.org/abs/2203.17272) [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o) [[Github]](https://mystyle-personalized-prior.github.io/)
 
 📄 **Third Time's the Charm? Image and Video Editing with StyleGAN3**  
+[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/yuval-alaluf/stylegan3-editing) arXiv
 Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or
-[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/yuval-alaluf/stylegan3-editing) arXiv 2022
-
-📄 **Deep Learning for Deepfakes Creation and Detection: A Survey**  
-Thanh Thi Nguyen, Quoc Viet Hung Nguyen, Dung Tien Nguyen, Duc Thanh Nguyen, Thien Huynh-The, Saeid Nahavandi, Thanh Tam Nguyen, Quoc-Viet Pham, Cuong M. Nguyen
-[[Paper]](https://arxiv.org/abs/1909.11573) Computer Vision and Image Understanding, 2022
 
 📄 **State-of-the-Art in the Architecture, Methods and Applications of StyleGAN**  
-Amit H. Bermano, Rinon Gal, Yuval Alaluf, Ron Mokady, Yotam Nitzan, Omer Tov, Or Patashnik, Daniel Cohen-Or
-[[Paper]](https://arxiv.org/abs/2202.14020) Wiley Online Library, 2022
+[[Paper]](https://arxiv.org/abs/2202.14020) Wiley Online Library  
+Amit H. Bermano, Rinon Gal, Yuval Alaluf, Ron Mokady, Yotam Nitzan, Omer Tov, Or Patashnik, Daniel Cohen-Or  
 
 📄 **E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion**  
-Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu
-[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/wty-ustc/e2style) IEEE Transactions on Image Processing, 2022
+[[Paper]](https://arxiv.org/abs/2201.13433) [[Github]](https://github.com/wty-ustc/e2style) IEEE Transactions on Image Processing  
+Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Weiming Zhang, Lu Yuan, Gang Hua, Nenghai Yu  
 
 📄 **Unsupervised face frontalization using disentangled representation-learning CycleGAN**  
-Yanfei Liu Junhua Chen
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001096) Computer Vision
-and Image Understanding, 2022
+and Image Understanding  
+Yanfei Liu Junhua Chen  
+
 <!-- 
 📄 **YOLO -- You only look 10647 times**  
 Christian Limberg, Andrew Melnik, Augustin Harter, Helge Ritter
@@ -243,13 +244,13 @@ Chao Yang, Ser-Nam Lim
 Rameen Abdal, Yipeng Qin, Peter Wonka
 [[Paper]](https://arxiv.org/abs/1911.11544) [[Video]](https://www.youtube.com/watch?v=kEKVSMTTQEI) IEEE/CVF
 
+📄 **Deep Learning for Deepfakes Creation and Detection: A Survey**  
+[[Paper]](https://arxiv.org/abs/1909.11573) Computer Vision and Image Understanding
+Thanh Thi Nguyen, Quoc Viet Hung Nguyen, Dung Tien Nguyen, Duc Thanh Nguyen, Thien Huynh-The, Saeid Nahavandi, Thanh Tam Nguyen, Quoc-Viet Pham, Cuong M. Nguyen
+
 📄 **Mining Audio, Text and Visual Information for Talking Face Generation**  
 L. Yu, J. Yu, and Q. Ling,
 [[Paper]](https://ieeexplore.ieee.org/document/8970886) ICDM 2019
-
-📄 **Representation Learning by Rotating Your Faces**  
-Luan Tran, Xi Yin, Xiaoming Liu
-[[Paper]](https://arxiv.org/abs/1705.11136) IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.
 
 📄 **FReeNet: Multi-Identity Face Reenactment**  
 Jiangning Zhang, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, Changjie Fan
@@ -309,6 +310,7 @@ Martin Arjovsky, Soumith Chintala, Léon Bottou
 Jae Hyun Lim, Jong Chul Ye
 [[Paper]](https://arxiv.org/abs/1705.02894) arXiv, 2017
  -->
+ 
 📄 **The Perception-Distortion Tradeoff**  
 Yochai Blau, Tomer Michaeli
 [[Paper]](https://arxiv.org/abs/1711.06077) IEEE/CVPR
@@ -325,6 +327,10 @@ Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz
 Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter
 [[Paper]](https://arxiv.org/abs/1706.08500) [[Github]](https://github.com/bioinf-jku/TTUR) Advances in neural information processing
 systems, vol. 30, 2017
+
+📄 **Representation Learning by Rotating Your Faces**  
+[[Paper]](https://arxiv.org/abs/1705.11136) IEEE Transactions on Pattern Analysis and Machine Intelligence  
+Luan Tran, Xi Yin, Xiaoming Liu  
 
 📄 **On Convergence and Stability of GANs**  
 Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira
