@@ -13,21 +13,13 @@ Survey link: https://arxiv.org/abs/2212.09102
 
 ---
 
-[Papers](#papers)
-
+## Papers
+[Click to see Figures](#papers)  
 - [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
-<!-- [Web Applications](#web-applications)
+## 2023  
 
-[Datasets](#datasets) -->
-
----
-
-### Papers
-## 2023<br />
-
-📄<b> LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis </b> <br />
-[[Paper]](https://arxiv.org/abs/2301.04604)  [[Project]](https://zhujiapeng.github.io/linkgan/) [[Github]](https://github.com/zhujiapeng/linkgan) arxiv<br />
-<sub><sup>Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen</sup></sub><br />
+<b>LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis </b>  
+<sub>[[Paper]](https://arxiv.org/abs/2301.04604)  [[Project]](https://zhujiapeng.github.io/linkgan/) [[Github]](https://github.com/zhujiapeng/linkgan) arxiv</sub> <sub><sub><sup>Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen</sup></sub></sub>  
 
 📄<b> SLI-pSp: Injecting Multi-Scale Spatial Layout in pSp </b> <br />
 [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV<br />
