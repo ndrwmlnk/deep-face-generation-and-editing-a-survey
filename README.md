@@ -18,6 +18,9 @@ Survey link: https://arxiv.org/abs/2212.09102
 - [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 ## 2023  
 
+📄<b> FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping </b> <br />
+<sub>[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yoo_FastSwap_A_Lightweight_One-Stage_Framework_for_Real-Time_Face_Swapping_WACV_2023_paper.pdf)  [[Project]](https://wacv-1752.github.io/FastSwap/) [[Github]](https://github.com/sahngmin/fastswap) WACV</sub><br /> <sub><sup>Sahng-Min Yoo, Tae-Min Choi, Jae-Woo Choi, Jong-Hwan Kim</sup></sub>  
+
 <b>LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis </b>  
 <sub>[[Paper]](https://arxiv.org/abs/2301.04604)  [[Project]](https://zhujiapeng.github.io/linkgan/) [[Github]](https://github.com/zhujiapeng/linkgan) arxiv</sub> <sub><sub><sup>Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen</sup></sub></sub>  
 
