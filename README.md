@@ -18,34 +18,32 @@ Survey link: https://arxiv.org/abs/2212.09102
 - [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 ## 2023  
 
-📄<b> FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping </b> <br />
-<sub>[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yoo_FastSwap_A_Lightweight_One-Stage_Framework_for_Real-Time_Face_Swapping_WACV_2023_paper.pdf)  [[Project]](https://wacv-1752.github.io/FastSwap/) [[Github]](https://github.com/sahngmin/fastswap) WACV</sub><br /> <sub><sup>Sahng-Min Yoo, Tae-Min Choi, Jae-Woo Choi, Jong-Hwan Kim</sup></sub>  
-
-📄<b>LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis </b>  
-<sub>[[Paper]](https://arxiv.org/abs/2301.04604)  [[Project]](https://zhujiapeng.github.io/linkgan/) [[Github]](https://github.com/zhujiapeng/linkgan) arxiv</sub> <sub><sub><sup>Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen</sup></sub></sub>  
-
-📄<b> SLI-pSp: Injecting Multi-Scale Spatial Layout in pSp </b> <br />
-<sub> [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV<br />
-<sub><sup>Aradhya Neeraj Mathur, Anish Madan, Ojaswa Sharma</sup></sub><br />
+📄<b> FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention </b> <br />
+<sub>[[Paper]](https://arxiv.org/pdf/2305.10431v2.pdf)  [[Project]](https://fastcomposer.mit.edu/) [[Github]](https://github.com/mit-han-lab/fastcomposer) CVPR </sub><br /> <sub><sup> Guangxuan Xiao, Tianwei Yin, William T. Freeman, Frédo Durand, Song Han </sup></sub> 
 
 📄<b> Drag Your GAN: Interactive Point-based Manipulation on the
 Generative Image Manifold </b> <br />
 <sub>[[Paper]](https://arxiv.org/pdf/2305.10973.pdf)  [[Project]](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) [[Github]](https://github.com/XingangPan/DragGAN) SIGGRAPH </sub><br /> <sub><sup>Xingang Pan, Ayush Tewari, Thomas Leimkühler,Lingjie Liu, Abhimitra Meka, Christian Theobalt </sup></sub>  
 
-📄<b> SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation </b> <br />
-<sub>[[Paper]](https://arxiv.org/pdf/2211.12194v2.pdf)  [[Project]](https://sadtalker.github.io/) [[Github]](https://github.com/OpenTalker/SadTalker) CVPR </sub><br /> <sub><sup> Ziqi Huang, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu </sup></sub> 
-
-📄<b> FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention </b> <br />
-<sub>[[Paper]](https://arxiv.org/pdf/2305.10431v2.pdf)  [[Project]](https://fastcomposer.mit.edu/) [[Github]](https://github.com/mit-han-lab/fastcomposer) CVPR </sub><br /> <sub><sup> Guangxuan Xiao, Tianwei Yin, William T. Freeman, Frédo Durand, Song Han </sup></sub> 
-
 📄<b> Collaborative Diffusion for Multi-Modal Face Generation and Editing </b> <br />
 <sub>[[Paper]](https://arxiv.org/pdf/2304.10530.pdf)  [[Project]](https://ziqihuangg.github.io/projects/collaborative-diffusion.html) [[Github]](https://github.com/ziqihuangg/Collaborative-Diffusion) CVPR </sub><br /> <sub><sup> Ziqi Huang, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu </sup></sub> 
+
+📄<b> Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models </b> <br />
+<sub>[[Paper]](https://arxiv.org/pdf/2304.04344v1.pdf)  arxiv</sub><br /> <sub><sup> Nikita Starodubcev, Dmitry Baranchuk, Valentin Khrulkov, Artem Babenko</sup></sub> 
 
 📄<b> DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration </b> <br />
 <sub>[[Paper]](https://arxiv.org/pdf/2303.06885.pdf)  arxiv</sub><br /> <sub><sup> Zhixin Wang, Xiaoyun Zhang, Ziying Zhang, Huangjie Zheng, Mingyuan Zhou, Ya Zhang, Yanfeng Wang </sup></sub>  
 
-📄<b> Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models </b> <br />
-<sub>[[Paper]](https://arxiv.org/pdf/2304.04344v1.pdf)  arxiv</sub><br /> <sub><sup> Nikita Starodubcev, Dmitry Baranchuk, Valentin Khrulkov, Artem Babenko</sup></sub> 
+📄<b>LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis </b>  
+<sub>[[Paper]](https://arxiv.org/abs/2301.04604)  [[Project]](https://zhujiapeng.github.io/linkgan/) [[Github]](https://github.com/zhujiapeng/linkgan) arxiv</sub> <sub><sub><sup>Jiapeng Zhu, Ceyuan Yang, Yujun Shen, Zifan Shi, Deli Zhao, Qifeng Chen</sup></sub></sub>  
+
+📄<b> FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping </b> <br />
+<sub>[[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Yoo_FastSwap_A_Lightweight_One-Stage_Framework_for_Real-Time_Face_Swapping_WACV_2023_paper.pdf)  [[Project]](https://wacv-1752.github.io/FastSwap/) [[Github]](https://github.com/sahngmin/fastswap) WACV</sub><br /> <sub><sup>Sahng-Min Yoo, Tae-Min Choi, Jae-Woo Choi, Jong-Hwan Kim</sup></sub>  
+
+📄<b> SLI-pSp: Injecting Multi-Scale Spatial Layout in pSp </b> <br />
+<sub> [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Mathur_SLI-pSp_Injecting_Multi-Scale_Spatial_Layout_in_pSp_WACV_2023_paper) WACV<br />
+<sub><sup>Aradhya Neeraj Mathur, Anish Madan, Ojaswa Sharma</sup></sub><br />
+
 
 ## 2022<br />
 
@@ -60,6 +58,9 @@ Generative Image Manifold </b> <br />
 📄<b> Faces: AI Blitz XIII Solutions </b> <br />
 [[Paper]](https://arxiv.org/abs/2204.01081)  [[Github]](https://github.com/ndrwmlnk/ai-blitz-xiii) arxiv<br />
 <sub><sup>Andrew Melnik, Eren Akbulut, Jannik Sheikh, Kira Loos, Michael Buettner, Tobias Lenze</sup></sub><br />
+
+📄<b> SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation </b> <br />
+<sub>[[Paper]](https://arxiv.org/pdf/2211.12194v2.pdf)  [[Project]](https://sadtalker.github.io/) [[Github]](https://github.com/OpenTalker/SadTalker) CVPR </sub><br /> <sub><sup> Ziqi Huang, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu </sup></sub> 
 
 📄<b> MyStyle: A Personalized Generative Prior </b> <br />
 [[Paper]](https://arxiv.org/abs/2203.17272) [[Github]](https://mystyle-personalized-prior.github.io/) [[Video]](https://www.youtube.com/watch?v=axWo_9Gt47o) arxiv<br />
