@@ -3,11 +3,12 @@
 Survey link: https://arxiv.org/abs/2212.09102
 
 ```
-@article{melnik2022face,
+@article{melnik2024face,
   title={Face Generation and Editing with StyleGAN: A Survey},
-  author={Melnik, Andrew and Miasayedzenkau, Maksim and Makarovets, Dzianis and Pirshtuk, Dzianis and Akbulut, Eren and Holzmann, Dennis and Renusch, Tarek and Reichert, Gustav and Ritter, Helge},
-  journal={arXiv preprint arXiv:2212.09102},
-  year={2022}
+  author={Melnik, Andrew and Miasayedzenkau, Maksim and Makaravets, Dzianis and Pirshtuk, Dzianis and Akbulut, Eren and Holzmann, Dennis and Renusch, Tarek and Reichert, Gustav and Ritter, Helge},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
